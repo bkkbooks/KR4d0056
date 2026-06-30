@@ -1,0 +1,1760 @@
+canonical_identifier: bkk:krp/KR4d0056/bkk/v1/markers/63
+seq: 63
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0056_SBCK_063-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 余被命來守}
+  - {type: page-break, offset: 0, content: '', id: KR4d0056_WYG_063-1a, image: WYG1099/WYG1099-0440c.png}
+  - {type: variant, offset: 2, length: 0, content: '', WYG: 視事之翌日有客謂余曰郡學請鏤版印書公留意否乎乃問其目曰梅聖俞詩集自遭兵火殘編斷簡靡有全者幸郡教官有善本余樂聞而應之曰昔龎參為漢陽太守郡人任棠有奇節參到}
+  - {type: variant, offset: 3, length: 21, content: 生集附録送梅主簿歸河陽序歐陽脩至寶濳乎山川, WYG: 候}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0056_SBCK_063-1a02}
+  - {type: indent, offset: 0, content: 　　　, id: KR4d0056_krp_063-bkkind1}
+  - {type: indent, offset: 8, content: 　, id: KR4d0056_krp_063-bkkind2}
+  - {type: 'kr:newline', offset: 11, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl2}
+  - {type: line-break, offset: 11, content: '', id: KR4d0056_SBCK_063-1a03}
+  - {type: variant, offset: 18, length: 26, content: 幽而能先羣物以貴於世者負其有異而巳故珠濳于泥玉濳于璞, WYG: 棠}
+  - {type: 'kr:newline', offset: 29, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl3}
+  - {type: line-break, offset: 29, content: '', id: KR4d0056_SBCK_063-1a04}
+  - {type: variant, offset: 29, length: 1, content: 負, SBCK: 􅀒}
+  - {type: variant, offset: 43, length: 1, content: 璞, SBCK: 􅒄}
+  - {type: variant, offset: 46, length: 6, content: 夫蜃蛤珉石混, WYG: 言但以薤一本水一盂置戸屏前抱兒伏於戸下參思其微旨曰水欲吾清拔薤欲吾擊強宗抱兒當戸欲吾開門恤孤率}
+  - {type: 'kr:newline', offset: 47, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl4}
+  - {type: line-break, offset: 47, content: '', id: KR4d0056_SBCK_063-1a05}
+  - {type: variant, offset: 53, length: 2, content: 棄者, WYG: 行之漢陽大治余殿此邦之初學官諸生以學校為言今客又以聖俞梅公詩集為言客}
+  - {type: page-break, offset: 53, content: '', id: KR4d0056_WYG_063-1b, image: WYG1099/WYG1099-0440d.png}
+  - {type: variant, offset: 56, length: 0, content: '', WYG: 吾之任棠也與聖俞公以詩聞於當世寔此邦之前哲客其欲余}
+  - {type: variant, offset: 57, length: 3, content: 膺美澤, WYG: 庠序}
+  - {type: variant, offset: 61, length: 5, content: 氣輝然特見, WYG: 敎而借梅文以為諭余固淺陋雖不足以發揚幽光敢不率行或庶幾乎如漢陽之治也乃命學官董其事鏤版既成請序}
+  - {type: 'kr:newline', offset: 65, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl5}
+  - {type: line-break, offset: 65, content: '', id: KR4d0056_SBCK_063-1a06}
+  - {type: variant, offset: 67, length: 9, content: 外也士固有濳乎卑位, WYG: 余余豈敢辭聖俞公之詩簡古純粹華}
+  - {type: variant, offset: 77, length: 4, content: 與夫庸庸, WYG: 不綺清而不癯涵泳於仁義}
+  - {type: 'kr:newline', offset: 83, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl6}
+  - {type: line-break, offset: 83, content: '', id: KR4d0056_SBCK_063-1a07}
+  - {type: variant, offset: 83, length: 14, content: 俯仰上下然卒不混者其文章才美, WYG: 出入於詩書}
+  - {type: variant, offset: 98, length: 899, content: 光氣亦有輝然而特見者矣然求珠者必之乎海求玉者必之乎藍田求賢士者必之乎通邑大都據其㑹就其名而擇其精焉爾洛陽天子之西都距京師不數驛搢紳仕宦雜然而處其亦珠玉之淵海歟余方據是而擇之獨得於梅君聖俞其所謂輝然特見而精者耶聖俞志高而行㓗氣秀而色和嶄然獨出於衆人中初爲河南主簿以親嫌移佐河陽常喜與洛之士游故因吏事而至於此余嘗與之徜徉於嵩洛之下每得絶崖倒壑深林古寺則必相與吟哦其間始則歡然以相得終則暢然覺乎薰蒸浸漬之爲益也故乆而不猒旣而以吏事訖言歸余且惜其去又想夫濳乎下邑混於庸庸然所謂能先羣物而貴於世者特其異而巳則光氣之輝然者豈能掩之哉注孫子序歐陽脩世所傳孫武十三篇多用曹公杜牧陳皥注號三家孫子余頃與撰四庫書目所見孫子注者尤多武之書本於兵兵之術非一而以不窮爲竒冝其說者之多也凡人之用智有短長其設施各異故或膠其說於偏見然無出所謂三家者三家之法皥最後其說時時攻牧之短牧亦慨然最喜論兵欲試而不得者其學能通春秋戰國時事甚博而詳然前世言善用兵稱曹公曹公嘗與董吕諸袁角其力而勝之遂與吳蜀分漢而王傳言魏之諸將岀兵千里毎坐計勝敗授以成算諸將用之十不失一一有違者兵輒敗北故魏世用兵悉以新書從事其精於兵也如此牧謂曹公於注孫子尤略盖惜其所得自爲一書是曹公悉得武之術也然武嘗以其書干吳王闔閭闔閭用之西破楚北服齊晉而伯諸侯夫使武自用其書止於強伯及曹公用之然亦終不能滅吳蜀豈武之術盡於此乎抑用之不極其能也後之學者徒見其書又各牽於巳見是以注者雖多而少當也獨吾友聖俞不然嘗評武之書曰此戰國相傾之說也三代王者之師司馬九伐之法武不及也然亦愛其文略而意深其行師用兵料敵制勝亦皆有法其言甚有次第而注者汨之或失其意乃自爲注凡膠於偏見者皆抉去傅以巳意而發之然後武之說不汨而明吾知此書當與三家並傳而後世取其說者徃徃於吾聖俞多焉聖俞爲人謹質温恭衣冠進趨眇然儒者也後世之視其書者與太史公疑張子房爲壯夫何異上梅直講書蘇軾子瞻某官執事每讀詩至鴟鴞讀書至君奭常切悲周公之不遇及見孔子厄於陳蔡之間而絃歌之聲不絕顏淵仲由之徒相與答問夫子曰匪兕匪虎率彼曠野吾道非邪又何爲至此顏淵曰夫子之道至大故天下莫能容雖然不容何病不容然後見君子夫子油然而笑曰回使爾多財吾爲爾宰夫天下雖不能容, WYG: 府}
+  - {type: 'kr:newline', offset: 101, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl7}
+  - {type: line-break, offset: 101, content: '', id: KR4d0056_SBCK_063-1a08}
+  - {type: 'kr:newline', offset: 119, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl8}
+  - {type: line-break, offset: 119, content: '', id: KR4d0056_SBCK_063-1a09}
+  - {type: 'kr:newline', offset: 137, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl9}
+  - {type: page-break, offset: 137, content: '', id: KR4d0056_SBCK_063-1b}
+  - {type: 'kr:newline', offset: 137, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl10}
+  - {type: line-break, offset: 137, content: '', id: KR4d0056_SBCK_063-1b01}
+  - {type: 'kr:newline', offset: 155, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl11}
+  - {type: line-break, offset: 155, content: '', id: KR4d0056_SBCK_063-1b02}
+  - {type: 'kr:newline', offset: 173, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl12}
+  - {type: line-break, offset: 173, content: '', id: KR4d0056_SBCK_063-1b03}
+  - {type: 'kr:newline', offset: 191, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl13}
+  - {type: line-break, offset: 191, content: '', id: KR4d0056_SBCK_063-1b04}
+  - {type: 'kr:newline', offset: 209, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl14}
+  - {type: line-break, offset: 209, content: '', id: KR4d0056_SBCK_063-1b05}
+  - {type: 'kr:newline', offset: 227, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl15}
+  - {type: line-break, offset: 227, content: '', id: KR4d0056_SBCK_063-1b06}
+  - {type: 'kr:newline', offset: 245, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl16}
+  - {type: line-break, offset: 245, content: '', id: KR4d0056_SBCK_063-1b07}
+  - {type: 'kr:newline', offset: 263, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl17}
+  - {type: line-break, offset: 263, content: '', id: KR4d0056_SBCK_063-1b08}
+  - {type: 'kr:newline', offset: 281, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl18}
+  - {type: line-break, offset: 281, content: '', id: KR4d0056_SBCK_063-1b09}
+  - {type: 'kr:newline', offset: 299, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl19}
+  - {type: page-break, offset: 299, content: '', id: KR4d0056_SBCK_063-2a}
+  - {type: 'kr:newline', offset: 299, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl20}
+  - {type: line-break, offset: 299, content: '', id: KR4d0056_SBCK_063-2a01}
+  - {type: 'kr:newline', offset: 317, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl21}
+  - {type: line-break, offset: 317, content: '', id: KR4d0056_SBCK_063-2a02}
+  - {type: 'kr:newline', offset: 335, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl22}
+  - {type: line-break, offset: 335, content: '', id: KR4d0056_SBCK_063-2a03}
+  - {type: 'kr:newline', offset: 353, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl23}
+  - {type: line-break, offset: 353, content: '', id: KR4d0056_SBCK_063-2a04}
+  - {type: 'kr:newline', offset: 358, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl24}
+  - {type: line-break, offset: 358, content: '', id: KR4d0056_SBCK_063-2a05}
+  - {type: indent, offset: 358, content: 　　　, id: KR4d0056_krp_063-bkkind3}
+  - {type: indent, offset: 362, content: 　, id: KR4d0056_krp_063-bkkind4}
+  - {type: 'kr:newline', offset: 365, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl25}
+  - {type: line-break, offset: 365, content: '', id: KR4d0056_SBCK_063-2a06}
+  - {type: 'kr:newline', offset: 383, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl26}
+  - {type: line-break, offset: 383, content: '', id: KR4d0056_SBCK_063-2a07}
+  - {type: 'kr:newline', offset: 401, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl27}
+  - {type: line-break, offset: 401, content: '', id: KR4d0056_SBCK_063-2a08}
+  - {type: 'kr:newline', offset: 419, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl28}
+  - {type: line-break, offset: 419, content: '', id: KR4d0056_SBCK_063-2a09}
+  - {type: variant, offset: 422, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 437, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl29}
+  - {type: page-break, offset: 437, content: '', id: KR4d0056_SBCK_063-2b}
+  - {type: 'kr:newline', offset: 437, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl30}
+  - {type: line-break, offset: 437, content: '', id: KR4d0056_SBCK_063-2b01}
+  - {type: variant, offset: 444, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 455, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl31}
+  - {type: line-break, offset: 455, content: '', id: KR4d0056_SBCK_063-2b02}
+  - {type: variant, offset: 461, length: 1, content: 最, SBCK: 􅇰}
+  - {type: variant, offset: 464, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 473, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl32}
+  - {type: line-break, offset: 473, content: '', id: KR4d0056_SBCK_063-2b03}
+  - {type: variant, offset: 473, length: 1, content: 慨, SBCK: 􅁣}
+  - {type: variant, offset: 475, length: 1, content: 最, SBCK: 􅇰}
+  - {type: 'kr:newline', offset: 491, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl33}
+  - {type: line-break, offset: 491, content: '', id: KR4d0056_SBCK_063-2b04}
+  - {type: 'kr:newline', offset: 509, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl34}
+  - {type: line-break, offset: 509, content: '', id: KR4d0056_SBCK_063-2b05}
+  - {type: variant, offset: 516, length: 1, content: 袁, SBCK: 􅀽}
+  - {type: 'kr:newline', offset: 527, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl35}
+  - {type: line-break, offset: 527, content: '', id: KR4d0056_SBCK_063-2b06}
+  - {type: 'kr:newline', offset: 545, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl36}
+  - {type: line-break, offset: 545, content: '', id: KR4d0056_SBCK_063-2b07}
+  - {type: 'kr:newline', offset: 563, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl37}
+  - {type: line-break, offset: 563, content: '', id: KR4d0056_SBCK_063-2b08}
+  - {type: 'kr:newline', offset: 581, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl38}
+  - {type: line-break, offset: 581, content: '', id: KR4d0056_SBCK_063-2b09}
+  - {type: 'kr:newline', offset: 599, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl39}
+  - {type: page-break, offset: 599, content: '', id: KR4d0056_SBCK_063-3a}
+  - {type: 'kr:newline', offset: 599, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl40}
+  - {type: line-break, offset: 599, content: '', id: KR4d0056_SBCK_063-3a01}
+  - {type: 'kr:newline', offset: 617, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl41}
+  - {type: line-break, offset: 617, content: '', id: KR4d0056_SBCK_063-3a02}
+  - {type: 'kr:newline', offset: 635, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl42}
+  - {type: line-break, offset: 635, content: '', id: KR4d0056_SBCK_063-3a03}
+  - {type: 'kr:newline', offset: 653, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl43}
+  - {type: line-break, offset: 653, content: '', id: KR4d0056_SBCK_063-3a04}
+  - {type: 'kr:newline', offset: 671, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl44}
+  - {type: line-break, offset: 671, content: '', id: KR4d0056_SBCK_063-3a05}
+  - {type: 'kr:newline', offset: 689, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl45}
+  - {type: line-break, offset: 689, content: '', id: KR4d0056_SBCK_063-3a06}
+  - {type: 'kr:newline', offset: 707, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl46}
+  - {type: line-break, offset: 707, content: '', id: KR4d0056_SBCK_063-3a07}
+  - {type: variant, offset: 721, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 725, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl47}
+  - {type: line-break, offset: 725, content: '', id: KR4d0056_SBCK_063-3a08}
+  - {type: 'kr:newline', offset: 743, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl48}
+  - {type: line-break, offset: 743, content: '', id: KR4d0056_SBCK_063-3a09}
+  - {type: 'kr:newline', offset: 761, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl49}
+  - {type: page-break, offset: 761, content: '', id: KR4d0056_SBCK_063-3b}
+  - {type: 'kr:newline', offset: 761, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl50}
+  - {type: line-break, offset: 761, content: '', id: KR4d0056_SBCK_063-3b01}
+  - {type: 'kr:newline', offset: 779, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl51}
+  - {type: line-break, offset: 779, content: '', id: KR4d0056_SBCK_063-3b02}
+  - {type: 'kr:newline', offset: 797, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl52}
+  - {type: line-break, offset: 797, content: '', id: KR4d0056_SBCK_063-3b03}
+  - {type: variant, offset: 800, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 815, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl53}
+  - {type: line-break, offset: 815, content: '', id: KR4d0056_SBCK_063-3b04}
+  - {type: variant, offset: 820, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 833, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl54}
+  - {type: line-break, offset: 833, content: '', id: KR4d0056_SBCK_063-3b05}
+  - {type: variant, offset: 842, length: 1, content: 眇, SBCK: 􅆌}
+  - {type: 'kr:newline', offset: 851, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl55}
+  - {type: line-break, offset: 851, content: '', id: KR4d0056_SBCK_063-3b06}
+  - {type: 'kr:newline', offset: 867, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl56}
+  - {type: line-break, offset: 867, content: '', id: KR4d0056_SBCK_063-3b07}
+  - {type: indent, offset: 867, content: 　　　, id: KR4d0056_krp_063-bkkind5}
+  - {type: indent, offset: 872, content: 　, id: KR4d0056_krp_063-bkkind6}
+  - {type: punctuation, offset: 874, content: (, id: KR4d0056_krp_063-bkkpn1}
+  - {type: punctuation, offset: 876, content: ), id: KR4d0056_krp_063-bkkpn2}
+  - {type: 'kr:newline', offset: 876, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl57}
+  - {type: line-break, offset: 876, content: '', id: KR4d0056_SBCK_063-3b08}
+  - {type: 'kr:newline', offset: 894, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl58}
+  - {type: line-break, offset: 894, content: '', id: KR4d0056_SBCK_063-3b09}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl59}
+  - {type: page-break, offset: 912, content: '', id: KR4d0056_SBCK_063-4a}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl60}
+  - {type: line-break, offset: 912, content: '', id: KR4d0056_SBCK_063-4a01}
+  - {type: 'kr:newline', offset: 930, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl61}
+  - {type: line-break, offset: 930, content: '', id: KR4d0056_SBCK_063-4a02}
+  - {type: 'kr:newline', offset: 948, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl62}
+  - {type: line-break, offset: 948, content: '', id: KR4d0056_SBCK_063-4a03}
+  - {type: 'kr:newline', offset: 966, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl63}
+  - {type: line-break, offset: 966, content: '', id: KR4d0056_SBCK_063-4a04}
+  - {type: 'kr:newline', offset: 984, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl64}
+  - {type: line-break, offset: 984, content: '', id: KR4d0056_SBCK_063-4a05}
+  - {type: variant, offset: 999, length: 450, content: 徒自足以相樂如此乃今知周公之冨貴有不如夫子之貧賤夫以召公之賢以管蔡之親而不知其心則周公誰與樂其冨貴而夫子所與共貧賤者皆天下之賢才則亦足以樂乎此矣軾七八歲時始知讀書聞今天下有歐陽公者其爲人如古孟軻韓愈之徒而又有梅公者從之游而與之上下其議論其後益壯始能讀其文詞想見其爲人意其飄然脫去世俗之樂而自樂其樂也方學爲對偶聲律之文求升斗之禄自度無以進見於諸公之間來京師逾年未嘗窺其門今年春天下之士羣至於禮部執事與歐陽公實親試之誠不自意獲在第二旣而聞之人執事愛其文以爲有孟軻之風而歐陽公亦以其能不爲世俗之文也而取是以在此非左右爲之先容非親舊爲之請屬而向之十餘年間聞其名而不得見者一朝爲知巳退而思之人不可以苟冨貴亦不可以徒貧賤有大賢而爲其徒則亦足恃矣苟其僥一時之幸從車騎數十人使閭巷小民聚觀而贊歎之亦何以易此樂也傳曰不怨天不尤人盖優哉游哉可以卒歲執事名滿天下而位不過五品其容色温而不怒其文章寛厚敦朴而無怨言此必有所樂乎斯道也軾願與聞焉宛陵先生年譜序宛陵梅先生以道德文學發而爲詩變晩唐卑陋之習啓盛宋和平之音有功於斯文甚大, WYG: 工}
+  - {type: 'kr:newline', offset: 1002, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl65}
+  - {type: line-break, offset: 1002, content: '', id: KR4d0056_SBCK_063-4a06}
+  - {type: 'kr:newline', offset: 1020, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl66}
+  - {type: line-break, offset: 1020, content: '', id: KR4d0056_SBCK_063-4a07}
+  - {type: 'kr:newline', offset: 1038, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl67}
+  - {type: line-break, offset: 1038, content: '', id: KR4d0056_SBCK_063-4a08}
+  - {type: 'kr:newline', offset: 1056, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl68}
+  - {type: line-break, offset: 1056, content: '', id: KR4d0056_SBCK_063-4a09}
+  - {type: 'kr:newline', offset: 1074, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl69}
+  - {type: page-break, offset: 1074, content: '', id: KR4d0056_SBCK_063-4b}
+  - {type: 'kr:newline', offset: 1074, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl70}
+  - {type: line-break, offset: 1074, content: '', id: KR4d0056_SBCK_063-4b01}
+  - {type: 'kr:newline', offset: 1092, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl71}
+  - {type: line-break, offset: 1092, content: '', id: KR4d0056_SBCK_063-4b02}
+  - {type: 'kr:newline', offset: 1110, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl72}
+  - {type: line-break, offset: 1110, content: '', id: KR4d0056_SBCK_063-4b03}
+  - {type: 'kr:newline', offset: 1128, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl73}
+  - {type: line-break, offset: 1128, content: '', id: KR4d0056_SBCK_063-4b04}
+  - {type: 'kr:newline', offset: 1146, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl74}
+  - {type: line-break, offset: 1146, content: '', id: KR4d0056_SBCK_063-4b05}
+  - {type: 'kr:newline', offset: 1164, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl75}
+  - {type: line-break, offset: 1164, content: '', id: KR4d0056_SBCK_063-4b06}
+  - {type: 'kr:newline', offset: 1182, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl76}
+  - {type: line-break, offset: 1182, content: '', id: KR4d0056_SBCK_063-4b07}
+  - {type: 'kr:newline', offset: 1200, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl77}
+  - {type: line-break, offset: 1200, content: '', id: KR4d0056_SBCK_063-4b08}
+  - {type: variant, offset: 1209, length: 1, content: 獲, SBCK: 􅀗}
+  - {type: 'kr:newline', offset: 1218, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl78}
+  - {type: line-break, offset: 1218, content: '', id: KR4d0056_SBCK_063-4b09}
+  - {type: 'kr:newline', offset: 1236, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl79}
+  - {type: page-break, offset: 1236, content: '', id: KR4d0056_SBCK_063-5a}
+  - {type: 'kr:newline', offset: 1236, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl80}
+  - {type: line-break, offset: 1236, content: '', id: KR4d0056_SBCK_063-5a01}
+  - {type: 'kr:newline', offset: 1254, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl81}
+  - {type: line-break, offset: 1254, content: '', id: KR4d0056_SBCK_063-5a02}
+  - {type: 'kr:newline', offset: 1272, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl82}
+  - {type: line-break, offset: 1272, content: '', id: KR4d0056_SBCK_063-5a03}
+  - {type: 'kr:newline', offset: 1290, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl83}
+  - {type: line-break, offset: 1290, content: '', id: KR4d0056_SBCK_063-5a04}
+  - {type: 'kr:newline', offset: 1308, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl84}
+  - {type: line-break, offset: 1308, content: '', id: KR4d0056_SBCK_063-5a05}
+  - {type: variant, offset: 1324, length: 1, content: 騎, SBCK: 􅀐}
+  - {type: 'kr:newline', offset: 1326, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl85}
+  - {type: line-break, offset: 1326, content: '', id: KR4d0056_SBCK_063-5a06}
+  - {type: 'kr:newline', offset: 1344, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl86}
+  - {type: line-break, offset: 1344, content: '', id: KR4d0056_SBCK_063-5a07}
+  - {type: 'kr:newline', offset: 1362, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl87}
+  - {type: line-break, offset: 1362, content: '', id: KR4d0056_SBCK_063-5a08}
+  - {type: 'kr:newline', offset: 1380, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl88}
+  - {type: line-break, offset: 1380, content: '', id: KR4d0056_SBCK_063-5a09}
+  - {type: 'kr:newline', offset: 1398, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl89}
+  - {type: page-break, offset: 1398, content: '', id: KR4d0056_SBCK_063-5b}
+  - {type: 'kr:newline', offset: 1398, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl90}
+  - {type: line-break, offset: 1398, content: '', id: KR4d0056_SBCK_063-5b01}
+  - {type: 'kr:newline', offset: 1407, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl91}
+  - {type: line-break, offset: 1407, content: '', id: KR4d0056_SBCK_063-5b02}
+  - {type: indent, offset: 1407, content: 　　　, id: KR4d0056_krp_063-bkkind7}
+  - {type: 'kr:newline', offset: 1414, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl92}
+  - {type: line-break, offset: 1414, content: '', id: KR4d0056_SBCK_063-5b03}
+  - {type: 'kr:newline', offset: 1432, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl93}
+  - {type: line-break, offset: 1432, content: '', id: KR4d0056_SBCK_063-5b04}
+  - {type: 'kr:newline', offset: 1450, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl94}
+  - {type: line-break, offset: 1450, content: '', id: KR4d0056_SBCK_063-5b05}
+  - {type: variant, offset: 1454, length: 1, content: 知, WYG: 已序於集首此不復道姑敘鏤版}
+  - {type: variant, offset: 1456, length: 1, content: 最, SBCK: 􅇰}
+  - {type: variant, offset: 1456, length: 82, content: 最深旣題其詩稿又序其集又序其所注孫子又銘其墓而哀之以文盖文忠公之知先生猶子房謂沛公爲殆天授者是豈容贊一辭哉然昔之君子以言語文字爲天下後世所貴重者必其出處語黙之際無或, WYG: 由云爾紹興十年上元日檢校}
+  - {type: 'kr:newline', offset: 1468, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl95}
+  - {type: line-break, offset: 1468, content: '', id: KR4d0056_SBCK_063-5b06}
+  - {type: 'kr:newline', offset: 1486, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl96}
+  - {type: line-break, offset: 1486, content: '', id: KR4d0056_SBCK_063-5b07}
+  - {type: 'kr:newline', offset: 1504, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl97}
+  - {type: line-break, offset: 1504, content: '', id: KR4d0056_SBCK_063-5b08}
+  - {type: 'kr:newline', offset: 1522, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl98}
+  - {type: line-break, offset: 1522, content: '', id: KR4d0056_SBCK_063-5b09}
+  - {type: variant, offset: 1539, length: 809, content: 悖於理而後能垂世而行逺此年譜之所爲作也張君師魯叔輿世爲宛陵人著宛陵先生年譜余得而讀之愛其詞約而事備論覈而理明其多以歐陽子之書爲據依巳爲得書之體至於辯魏㤗邵博之厚誣使先生可作亦自喜後之人爲能知巳者且尤有補於世教也抑又考之宋嘉祐二年詔脩取士法務求平澹典要之文文忠公知貢舉而先生爲試官於是得人之盛若眉山蘇氏南豐曾氏橫渠張氏河南程氏皆出乎其間不惟文章復乎古作而道學之傳上承孔孟然則謂爲文忠公與先生之功非耶吾鄕周丞相定著文忠公年譜學者賴之此書當與之並行宛陵文獻於是足徴矣叔輿以余誦習歐陽子之書屬叙而刻之不獲辭謝爲識卷末云至元二年丁丑八月旣望序廬陵劉性墓誌銘嘉祐五年京師大疫四月乙亥聖俞得疾卧城東汴陽坊明日朝之賢士大夫徃問疾者騶呼屬路不絕城東之人市者廢行者不得徃來咸驚顧相語曰玆坊所居大人誰耶何致客之多也居八日癸未聖俞卒於是賢士大夫又走弔哭如前日益多而其尤親且舊者相與聚而謀其後事自丞相以下皆有以􅉠䘏其家粤六月甲申其孤增載其柩南歸以明年正月丁丑葬于宣城雙羊山聖俞字也其名堯臣姓梅氏宣州宣城人也自其家世頗能詩而從父詢以仕顯至聖俞遂以詩聞自武夫貴戚童兒野叟皆能道其名字雖妄愚人不能知詩義者直曰此世所貴也吾能得之用以自矜故求者日踵門而聖俞詩遂行天下其初喜爲清麗閑肆平淡乆則涵演深逺間亦琢剥以出怪巧然氣完力餘益老以勁其應於人者多故辭非一體至於他文章皆可喜非如唐諸子號詩人者僻固而狹陋也聖俞爲人仁厚樂易未嘗忤於物至其窮愁感憤有所罵譏笑謔一發於詩然用以爲驩而不怨懟可謂君子者也初在河南王文康公見其文嘆曰二百年無此作矣其後大臣屢薦宜在舘閣嘗一召試賜進士岀身餘輙不報嘉祐元年翰林學士趙槩等十餘人列言于朝曰梅堯臣經行脩明願得留與國子諸生講論道德作爲雅頌以歌詠聖化乃得國子監直講三年冬祫于太廟御史中丞韓綘言天子且親祠當更制樂章以薦祖考惟梅堯臣爲宜亦不報聖俞初以從父䕃補太廟齋郞歷桐城河南河陽三縣主簿以德興縣令知建德縣又知襄城縣監湖州監稅簽署忠武鎭安兩, WYG: 傅保信}
+  - {type: 'kr:newline', offset: 1540, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl99}
+  - {type: page-break, offset: 1540, content: '', id: KR4d0056_SBCK_063-6a}
+  - {type: 'kr:newline', offset: 1540, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl100}
+  - {type: line-break, offset: 1540, content: '', id: KR4d0056_SBCK_063-6a01}
+  - {type: 'kr:newline', offset: 1558, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl101}
+  - {type: line-break, offset: 1558, content: '', id: KR4d0056_SBCK_063-6a02}
+  - {type: 'kr:newline', offset: 1576, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl102}
+  - {type: line-break, offset: 1576, content: '', id: KR4d0056_SBCK_063-6a03}
+  - {type: 'kr:newline', offset: 1594, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl103}
+  - {type: line-break, offset: 1594, content: '', id: KR4d0056_SBCK_063-6a04}
+  - {type: 'kr:newline', offset: 1612, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl104}
+  - {type: line-break, offset: 1612, content: '', id: KR4d0056_SBCK_063-6a05}
+  - {type: 'kr:newline', offset: 1630, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl105}
+  - {type: line-break, offset: 1630, content: '', id: KR4d0056_SBCK_063-6a06}
+  - {type: 'kr:newline', offset: 1648, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl106}
+  - {type: line-break, offset: 1648, content: '', id: KR4d0056_SBCK_063-6a07}
+  - {type: 'kr:newline', offset: 1666, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl107}
+  - {type: line-break, offset: 1666, content: '', id: KR4d0056_SBCK_063-6a08}
+  - {type: 'kr:newline', offset: 1684, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl108}
+  - {type: line-break, offset: 1684, content: '', id: KR4d0056_SBCK_063-6a09}
+  - {type: variant, offset: 1689, length: 1, content: 南, SBCK: 􅀯}
+  - {type: 'kr:newline', offset: 1702, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl109}
+  - {type: page-break, offset: 1702, content: '', id: KR4d0056_SBCK_063-6b}
+  - {type: 'kr:newline', offset: 1702, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl110}
+  - {type: line-break, offset: 1702, content: '', id: KR4d0056_SBCK_063-6b01}
+  - {type: 'kr:newline', offset: 1720, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl111}
+  - {type: line-break, offset: 1720, content: '', id: KR4d0056_SBCK_063-6b02}
+  - {type: 'kr:newline', offset: 1738, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl112}
+  - {type: line-break, offset: 1738, content: '', id: KR4d0056_SBCK_063-6b03}
+  - {type: 'kr:newline', offset: 1756, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl113}
+  - {type: line-break, offset: 1756, content: '', id: KR4d0056_SBCK_063-6b04}
+  - {type: 'kr:newline', offset: 1774, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl114}
+  - {type: line-break, offset: 1774, content: '', id: KR4d0056_SBCK_063-6b05}
+  - {type: variant, offset: 1786, length: 1, content: 獲, SBCK: 􅀗}
+  - {type: 'kr:newline', offset: 1792, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl115}
+  - {type: line-break, offset: 1792, content: '', id: KR4d0056_SBCK_063-6b06}
+  - {type: 'kr:newline', offset: 1794, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl116}
+  - {type: line-break, offset: 1794, content: '', id: KR4d0056_SBCK_063-6b07}
+  - {type: indent, offset: 1805, content: 　, id: KR4d0056_krp_063-bkkind8}
+  - {type: 'kr:newline', offset: 1809, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl117}
+  - {type: line-break, offset: 1809, content: '', id: KR4d0056_SBCK_063-6b08}
+  - {type: indent, offset: 1809, content: 　　　, id: KR4d0056_krp_063-bkkind9}
+  - {type: 'kr:newline', offset: 1812, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl118}
+  - {type: line-break, offset: 1812, content: '', id: KR4d0056_SBCK_063-6b09}
+  - {type: 'kr:newline', offset: 1830, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl119}
+  - {type: page-break, offset: 1830, content: '', id: KR4d0056_SBCK_063-7a}
+  - {type: 'kr:newline', offset: 1830, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl120}
+  - {type: line-break, offset: 1830, content: '', id: KR4d0056_SBCK_063-7a01}
+  - {type: 'kr:newline', offset: 1848, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl121}
+  - {type: line-break, offset: 1848, content: '', id: KR4d0056_SBCK_063-7a02}
+  - {type: 'kr:newline', offset: 1866, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl122}
+  - {type: line-break, offset: 1866, content: '', id: KR4d0056_SBCK_063-7a03}
+  - {type: 'kr:newline', offset: 1884, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl123}
+  - {type: line-break, offset: 1884, content: '', id: KR4d0056_SBCK_063-7a04}
+  - {type: 'kr:newline', offset: 1902, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl124}
+  - {type: line-break, offset: 1902, content: '', id: KR4d0056_SBCK_063-7a05}
+  - {type: 'kr:newline', offset: 1920, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl125}
+  - {type: line-break, offset: 1920, content: '', id: KR4d0056_SBCK_063-7a06}
+  - {type: 'kr:newline', offset: 1938, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl126}
+  - {type: line-break, offset: 1938, content: '', id: KR4d0056_SBCK_063-7a07}
+  - {type: variant, offset: 1941, length: 1, content: 孤, SBCK: 􅀌}
+  - {type: variant, offset: 1946, length: 1, content: 南, SBCK: 􅀯}
+  - {type: 'kr:newline', offset: 1956, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl127}
+  - {type: line-break, offset: 1956, content: '', id: KR4d0056_SBCK_063-7a08}
+  - {type: variant, offset: 1959, length: 1, content: 雙, SBCK: 􅀟}
+  - {type: 'kr:newline', offset: 1974, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl128}
+  - {type: line-break, offset: 1974, content: '', id: KR4d0056_SBCK_063-7a09}
+  - {type: 'kr:newline', offset: 1992, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl129}
+  - {type: page-break, offset: 1992, content: '', id: KR4d0056_SBCK_063-7b}
+  - {type: 'kr:newline', offset: 1992, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl130}
+  - {type: line-break, offset: 1992, content: '', id: KR4d0056_SBCK_063-7b01}
+  - {type: 'kr:newline', offset: 2010, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl131}
+  - {type: line-break, offset: 2010, content: '', id: KR4d0056_SBCK_063-7b02}
+  - {type: 'kr:newline', offset: 2028, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl132}
+  - {type: line-break, offset: 2028, content: '', id: KR4d0056_SBCK_063-7b03}
+  - {type: 'kr:newline', offset: 2046, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl133}
+  - {type: line-break, offset: 2046, content: '', id: KR4d0056_SBCK_063-7b04}
+  - {type: 'kr:newline', offset: 2064, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl134}
+  - {type: line-break, offset: 2064, content: '', id: KR4d0056_SBCK_063-7b05}
+  - {type: variant, offset: 2072, length: 1, content: 琢, SBCK: 􅅣}
+  - {type: 'kr:newline', offset: 2082, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl135}
+  - {type: line-break, offset: 2082, content: '', id: KR4d0056_SBCK_063-7b06}
+  - {type: 'kr:newline', offset: 2100, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl136}
+  - {type: line-break, offset: 2100, content: '', id: KR4d0056_SBCK_063-7b07}
+  - {type: 'kr:newline', offset: 2118, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl137}
+  - {type: line-break, offset: 2118, content: '', id: KR4d0056_SBCK_063-7b08}
+  - {type: 'kr:newline', offset: 2136, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl138}
+  - {type: line-break, offset: 2136, content: '', id: KR4d0056_SBCK_063-7b09}
+  - {type: 'kr:newline', offset: 2154, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl139}
+  - {type: page-break, offset: 2154, content: '', id: KR4d0056_SBCK_063-8a}
+  - {type: 'kr:newline', offset: 2154, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl140}
+  - {type: line-break, offset: 2154, content: '', id: KR4d0056_SBCK_063-8a01}
+  - {type: 'kr:newline', offset: 2172, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl141}
+  - {type: line-break, offset: 2172, content: '', id: KR4d0056_SBCK_063-8a02}
+  - {type: 'kr:newline', offset: 2190, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl142}
+  - {type: line-break, offset: 2190, content: '', id: KR4d0056_SBCK_063-8a03}
+  - {type: 'kr:newline', offset: 2208, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl143}
+  - {type: line-break, offset: 2208, content: '', id: KR4d0056_SBCK_063-8a04}
+  - {type: 'kr:newline', offset: 2226, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl144}
+  - {type: line-break, offset: 2226, content: '', id: KR4d0056_SBCK_063-8a05}
+  - {type: 'kr:newline', offset: 2244, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl145}
+  - {type: line-break, offset: 2244, content: '', id: KR4d0056_SBCK_063-8a06}
+  - {type: 'kr:newline', offset: 2262, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl146}
+  - {type: line-break, offset: 2262, content: '', id: KR4d0056_SBCK_063-8a07}
+  - {type: 'kr:newline', offset: 2280, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl147}
+  - {type: line-break, offset: 2280, content: '', id: KR4d0056_SBCK_063-8a08}
+  - {type: 'kr:newline', offset: 2298, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl148}
+  - {type: line-break, offset: 2298, content: '', id: KR4d0056_SBCK_063-8a09}
+  - {type: 'kr:newline', offset: 2316, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl149}
+  - {type: page-break, offset: 2316, content: '', id: KR4d0056_SBCK_063-8b}
+  - {type: 'kr:newline', offset: 2316, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl150}
+  - {type: line-break, offset: 2316, content: '', id: KR4d0056_SBCK_063-8b01}
+  - {type: 'kr:newline', offset: 2334, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl151}
+  - {type: line-break, offset: 2334, content: '', id: KR4d0056_SBCK_063-8b02}
+  - {type: variant, offset: 2351, length: 210, content: 判官監永濟倉國子監直講累官至尚書都官貟外郞嘗奏其所撰唐載二十六卷多補正舊史闕謬乃命編脩唐書書成未奏而卒享年五十有九曾祖諱超祖諱邈皆不仕父諱讓太子中舍致仕贈職方郞中母曰僊游縣太君束氏又曰清河縣太君張氏初娶謝氏封南陽縣君再娶刁氏封渤海縣君改恩平縣君子男五人曰増曰墀曰坰曰龜兒一早卒女二人長適太廟齋郞薛通次尚㓜聖俞學長於毛氏詩爲小傳二十卷其文集四十卷注孫子十三篇余嘗論其詩曰世謂詩人少逹而多窮盖非詩能窮人殆窮者而後工也聖俞以爲, WYG: 使}
+  - {type: 'kr:newline', offset: 2352, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl152}
+  - {type: line-break, offset: 2352, content: '', id: KR4d0056_SBCK_063-8b03}
+  - {type: 'kr:newline', offset: 2370, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl153}
+  - {type: line-break, offset: 2370, content: '', id: KR4d0056_SBCK_063-8b04}
+  - {type: 'kr:newline', offset: 2388, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl154}
+  - {type: line-break, offset: 2388, content: '', id: KR4d0056_SBCK_063-8b05}
+  - {type: 'kr:newline', offset: 2406, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl155}
+  - {type: line-break, offset: 2406, content: '', id: KR4d0056_SBCK_063-8b06}
+  - {type: 'kr:newline', offset: 2424, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl156}
+  - {type: line-break, offset: 2424, content: '', id: KR4d0056_SBCK_063-8b07}
+  - {type: 'kr:newline', offset: 2442, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl157}
+  - {type: line-break, offset: 2442, content: '', id: KR4d0056_SBCK_063-8b08}
+  - {type: 'kr:newline', offset: 2460, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl158}
+  - {type: line-break, offset: 2460, content: '', id: KR4d0056_SBCK_063-8b09}
+  - {type: 'kr:newline', offset: 2478, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl159}
+  - {type: page-break, offset: 2478, content: '', id: KR4d0056_SBCK_063-9a}
+  - {type: 'kr:newline', offset: 2478, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl160}
+  - {type: line-break, offset: 2478, content: '', id: KR4d0056_SBCK_063-9a01}
+  - {type: variant, offset: 2484, length: 1, content: 龜, SBCK: 􅀛}
+  - {type: 'kr:newline', offset: 2496, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl161}
+  - {type: line-break, offset: 2496, content: '', id: KR4d0056_SBCK_063-9a02}
+  - {type: 'kr:newline', offset: 2514, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl162}
+  - {type: line-break, offset: 2514, content: '', id: KR4d0056_SBCK_063-9a03}
+  - {type: 'kr:newline', offset: 2532, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl163}
+  - {type: line-break, offset: 2532, content: '', id: KR4d0056_SBCK_063-9a04}
+  - {type: 'kr:newline', offset: 2550, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl164}
+  - {type: line-break, offset: 2550, content: '', id: KR4d0056_SBCK_063-9a05}
+  - {type: variant, offset: 2562, length: 417, content: 言銘曰不戚其窮不困其鳴不躓于艱不履于傾養其和平以發厥聲震越渾鍠衆聽以驚以揚其清以播其英以成其名以告諸㝠感二子歐陽脩黃河一千年一清岐山鳯鳥不再鳴自從蘇梅二子死天地寂然收雷聲百蟲坏戸不啓蟄萬木逢春不發萌豈無百鳥解言語喧啾終日無人聽二子精思極搜抉天地鬼神無遁情及其放筆聘豪俊筆下萬物生光榮古人謂此覷天巧命短疑爲天公憎昔時李杜爭橫行麒麟鳯皇世所驚二物非能致太平湏時太平然後生開元天寶物盛極自此中原疲戰爭英雄白骨化黃土冨貴何止浮雲輕惟有文章爛日星氣凌山岳常崢嶸賢愚自古皆共盡突兀空留後世名蘇謂舜欽也哀挽詩歐陽脩昔逢詩老伊水頭青衫白馬渡伊流灘聲八節響石樓坐中辭氣凌淸秋一飮百琖不言休酒酣思逸語更遒河南丞相稱賢侯後車日載梅與鄒我年最少力方優明珠白璧相報投詩成希深擁鼻謳師魯卷舌藏戈矛三十年間如轉眸屈指十九歸山丘凋零所餘身百憂晩登玉墀侍珠旒詩老虀鹽太學愁乖離㑹合謂無由此㑹天幸非人謀頷鬚巳白齒根浮子年加我貌則不歡猶可強閑屢偷不覺歲月成淹留文章落筆動九, WYG: 宣}
+  - {type: 'kr:newline', offset: 2565, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl165}
+  - {type: line-break, offset: 2565, content: '', id: KR4d0056_SBCK_063-9a06}
+  - {type: 'kr:newline', offset: 2583, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl166}
+  - {type: line-break, offset: 2583, content: '', id: KR4d0056_SBCK_063-9a07}
+  - {type: variant, offset: 2598, length: 1, content: 揚, SBCK: 􅀭}
+  - {type: 'kr:newline', offset: 2601, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl167}
+  - {type: line-break, offset: 2601, content: '', id: KR4d0056_SBCK_063-9a08}
+  - {type: 'kr:newline', offset: 2613, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl168}
+  - {type: line-break, offset: 2613, content: '', id: KR4d0056_SBCK_063-9a09}
+  - {type: indent, offset: 2613, content: 　　　, id: KR4d0056_krp_063-bkkind10}
+  - {type: indent, offset: 2616, content: 　, id: KR4d0056_krp_063-bkkind11}
+  - {type: 'kr:newline', offset: 2619, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl169}
+  - {type: page-break, offset: 2619, content: '', id: KR4d0056_SBCK_063-9b}
+  - {type: 'kr:newline', offset: 2619, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl170}
+  - {type: line-break, offset: 2619, content: '', id: KR4d0056_SBCK_063-9b01}
+  - {type: 'kr:newline', offset: 2637, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl171}
+  - {type: line-break, offset: 2637, content: '', id: KR4d0056_SBCK_063-9b02}
+  - {type: 'kr:newline', offset: 2655, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl172}
+  - {type: line-break, offset: 2655, content: '', id: KR4d0056_SBCK_063-9b03}
+  - {type: 'kr:newline', offset: 2673, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl173}
+  - {type: line-break, offset: 2673, content: '', id: KR4d0056_SBCK_063-9b04}
+  - {type: variant, offset: 2684, length: 1, content: 鬼, SBCK: 􅀑}
+  - {type: 'kr:newline', offset: 2691, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl174}
+  - {type: line-break, offset: 2691, content: '', id: KR4d0056_SBCK_063-9b05}
+  - {type: 'kr:newline', offset: 2709, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl175}
+  - {type: line-break, offset: 2709, content: '', id: KR4d0056_SBCK_063-9b06}
+  - {type: 'kr:newline', offset: 2727, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl176}
+  - {type: line-break, offset: 2727, content: '', id: KR4d0056_SBCK_063-9b07}
+  - {type: 'kr:newline', offset: 2745, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl177}
+  - {type: line-break, offset: 2745, content: '', id: KR4d0056_SBCK_063-9b08}
+  - {type: 'kr:newline', offset: 2763, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl178}
+  - {type: line-break, offset: 2763, content: '', id: KR4d0056_SBCK_063-9b09}
+  - {type: 'kr:newline', offset: 2781, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl179}
+  - {type: page-break, offset: 2781, content: '', id: KR4d0056_SBCK_063-10a}
+  - {type: 'kr:newline', offset: 2781, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl180}
+  - {type: line-break, offset: 2781, content: '', id: KR4d0056_SBCK_063-10a01}
+  - {type: 'kr:newline', offset: 2799, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl181}
+  - {type: line-break, offset: 2799, content: '', id: KR4d0056_SBCK_063-10a02}
+  - {type: punctuation, offset: 2801, content: (, id: KR4d0056_krp_063-bkkpn3}
+  - {type: punctuation, offset: 2806, content: ), id: KR4d0056_krp_063-bkkpn4}
+  - {type: 'kr:newline', offset: 2806, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl182}
+  - {type: line-break, offset: 2806, content: '', id: KR4d0056_SBCK_063-10a03}
+  - {type: indent, offset: 2806, content: 　　　, id: KR4d0056_krp_063-bkkind12}
+  - {type: indent, offset: 2809, content: 　, id: KR4d0056_krp_063-bkkind13}
+  - {type: 'kr:newline', offset: 2812, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl183}
+  - {type: line-break, offset: 2812, content: '', id: KR4d0056_SBCK_063-10a04}
+  - {type: 'kr:newline', offset: 2830, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl184}
+  - {type: line-break, offset: 2830, content: '', id: KR4d0056_SBCK_063-10a05}
+  - {type: 'kr:newline', offset: 2848, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl185}
+  - {type: line-break, offset: 2848, content: '', id: KR4d0056_SBCK_063-10a06}
+  - {type: 'kr:newline', offset: 2866, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl186}
+  - {type: line-break, offset: 2866, content: '', id: KR4d0056_SBCK_063-10a07}
+  - {type: 'kr:newline', offset: 2884, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl187}
+  - {type: line-break, offset: 2884, content: '', id: KR4d0056_SBCK_063-10a08}
+  - {type: 'kr:newline', offset: 2902, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl188}
+  - {type: line-break, offset: 2902, content: '', id: KR4d0056_SBCK_063-10a09}
+  - {type: 'kr:newline', offset: 2920, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl189}
+  - {type: page-break, offset: 2920, content: '', id: KR4d0056_SBCK_063-10b}
+  - {type: 'kr:newline', offset: 2920, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl190}
+  - {type: line-break, offset: 2920, content: '', id: KR4d0056_SBCK_063-10b01}
+  - {type: 'kr:newline', offset: 2938, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl191}
+  - {type: line-break, offset: 2938, content: '', id: KR4d0056_SBCK_063-10b02}
+  - {type: variant, offset: 2946, length: 1, content: 鬚, SBCK: 􅂡}
+  - {type: 'kr:newline', offset: 2956, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl192}
+  - {type: line-break, offset: 2956, content: '', id: KR4d0056_SBCK_063-10b03}
+  - {type: 'kr:newline', offset: 2974, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl193}
+  - {type: line-break, offset: 2974, content: '', id: KR4d0056_SBCK_063-10b04}
+  - {type: variant, offset: 2980, length: 143, content: 釡甑過午無饙餾良時易失不早收篋櫝瓦礫遺琳璆薦賢轉石古所尤此事有職非吾羞命也難知理莫求名聲赫赫掩諸幽翩然素旐歸一舟送子有淚流如溝又王安石詩行於世先春秋國風變衰始栢舟文辭感激多所憂律吕尚可諧鳴球先王澤竭士巳偷紛紛作者始可羞其聲與節急以浮真人當天施再流篤生梅公應時求頌歌文武功業優經奇緯麗散九, WYG: 軍}
+  - {type: 'kr:newline', offset: 2992, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl194}
+  - {type: line-break, offset: 2992, content: '', id: KR4d0056_SBCK_063-10b05}
+  - {type: 'kr:newline', offset: 3010, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl195}
+  - {type: line-break, offset: 3010, content: '', id: KR4d0056_SBCK_063-10b06}
+  - {type: 'kr:newline', offset: 3028, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl196}
+  - {type: line-break, offset: 3028, content: '', id: KR4d0056_SBCK_063-10b07}
+  - {type: 'kr:newline', offset: 3043, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl197}
+  - {type: line-break, offset: 3043, content: '', id: KR4d0056_SBCK_063-10b08}
+  - {type: indent, offset: 3043, content: 　　, id: KR4d0056_krp_063-bkkind14}
+  - {type: indent, offset: 3044, content: 　, id: KR4d0056_krp_063-bkkind15}
+  - {type: 'kr:newline', offset: 3047, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl198}
+  - {type: line-break, offset: 3047, content: '', id: KR4d0056_SBCK_063-10b09}
+  - {type: 'kr:newline', offset: 3065, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl199}
+  - {type: page-break, offset: 3065, content: '', id: KR4d0056_SBCK_063-11a}
+  - {type: 'kr:newline', offset: 3065, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl200}
+  - {type: line-break, offset: 3065, content: '', id: KR4d0056_SBCK_063-11a01}
+  - {type: 'kr:newline', offset: 3083, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl201}
+  - {type: line-break, offset: 3083, content: '', id: KR4d0056_SBCK_063-11a02}
+  - {type: 'kr:newline', offset: 3101, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl202}
+  - {type: line-break, offset: 3101, content: '', id: KR4d0056_SBCK_063-11a03}
+  - {type: 'kr:newline', offset: 3119, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl203}
+  - {type: line-break, offset: 3119, content: '', id: KR4d0056_SBCK_063-11a04}
+  - {type: variant, offset: 3124, length: 756, content: 衆皆少銳老則不翁獨辛苦不能休惜無來者人名遒貴人憐公青兩眸吹嘘可使高岑樓坐令隱約不見收空能乞錢助饙餾疑此有物司諸幽栖栖孔孟葬魯鄒後始卓落稱軻丘聖賢與命相楯矛勢欲強逹仍無由詩人况又多窮愁李杜亦不爲公侯公窺窮厄以身投坎軻坐老當誰尤吁嗟豈卽非善謀虎豹雖死皮終留飄然載䘮下隂溝粉書軸幅懸無旒高堂萬里哀白頭東望使我商聲謳又我得聖俞詩於身亦何有名字託文編他年知不朽我得聖俞詩於身果何如留爲子孫寶勝有千金珠謁墓詩宣城縣丞南郡滕珂百年詩老卧空山猶憶當時語帶酸嬴得兒童喚夫子可憐名位秪都官手編新史唐文備骨立殘碑漢籕漫落日牛羊上丘隴草埋翁仲獨峩冠宛陵城南柏山寺行到西廂見舊祠人物欲觀嘉祐老銘文空有醉翁辭銀章粉墨誰舒卷金薤琳琅自陸離毎見河豚起春岸永懷風致細哦詩又寧國守廬陵文天祥滄滄宛水陽鬱鬱都官墳喬松拱道周縁塋茁芳蓀古時北邙歎白楊邈游魂大雅獨不墜脩名照乾坤再拜墳上士躧履揖諸孫握手慨以慷而有典刑存渥洼生騏騮荆山產璵璠悠哉清渭流眷言葆其源又監察御史張經歐公去巳乆誰爲柏山愁白髪詩千首蒼煙土一丘諸孫時拜掃過客獨遲留寂寞僧窻晚春溪水自流又按察副使盧摯一上高齋憶謝公雲間江樹有無中詩家政有都官宅腸斷荒山落葉風又憲司經歷真定靳汝弼宋有梅夫子靈鳯朝陽鳴文章炳星日當時照東京歐陽期並轡朋軰俱名卿事業何顯著滿腹儲太平思之不得見但恨遲我生陵谷變遷後薄宦來宣城儒素藹鄕里雲仍亦賢英幸因休澣日下馬拜荒塋栢山得其高雙溪得其清二者能永乆延公千古名又寧國路經歷劉瑀昔聞夫子名今始拜其墓栢山寺古碑斷橫三尺荒墳儼如故稻溝流水聲且哀老樹號風悲更怒詩僊巳去二百載壞垣空走狸與兎嗚呼再奠一盃酒澘然回首西山暮又寧國路同知阮麟翁嘉祐微言絕重經二百年殘詩留斷石荒壠入平田山鶴夜應怨河豚春又鮮邦人說夫子寒食寺門前祭宛陵先生文維淳祐二年歲在壬寅某月某日朔朝散大夫顯謨閤待制知寧國軍府, WYG: ''}
+  - {type: 'kr:newline', offset: 3137, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl204}
+  - {type: line-break, offset: 3137, content: '', id: KR4d0056_SBCK_063-11a05}
+  - {type: 'kr:newline', offset: 3155, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl205}
+  - {type: line-break, offset: 3155, content: '', id: KR4d0056_SBCK_063-11a06}
+  - {type: 'kr:newline', offset: 3173, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl206}
+  - {type: line-break, offset: 3173, content: '', id: KR4d0056_SBCK_063-11a07}
+  - {type: 'kr:newline', offset: 3191, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl207}
+  - {type: line-break, offset: 3191, content: '', id: KR4d0056_SBCK_063-11a08}
+  - {type: variant, offset: 3201, length: 1, content: 勢, SBCK: 􅀔}
+  - {type: 'kr:newline', offset: 3209, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl208}
+  - {type: line-break, offset: 3209, content: '', id: KR4d0056_SBCK_063-11a09}
+  - {type: 'kr:newline', offset: 3227, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl209}
+  - {type: page-break, offset: 3227, content: '', id: KR4d0056_SBCK_063-11b}
+  - {type: 'kr:newline', offset: 3227, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl210}
+  - {type: line-break, offset: 3227, content: '', id: KR4d0056_SBCK_063-11b01}
+  - {type: 'kr:newline', offset: 3245, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl211}
+  - {type: line-break, offset: 3245, content: '', id: KR4d0056_SBCK_063-11b02}
+  - {type: 'kr:newline', offset: 3263, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl212}
+  - {type: line-break, offset: 3263, content: '', id: KR4d0056_SBCK_063-11b03}
+  - {type: 'kr:newline', offset: 3278, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl213}
+  - {type: line-break, offset: 3278, content: '', id: KR4d0056_SBCK_063-11b04}
+  - {type: indent, offset: 3278, content: 　　　, id: KR4d0056_krp_063-bkkind16}
+  - {type: 'kr:newline', offset: 3279, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl214}
+  - {type: line-break, offset: 3279, content: '', id: KR4d0056_SBCK_063-11b05}
+  - {type: 'kr:newline', offset: 3297, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl215}
+  - {type: line-break, offset: 3297, content: '', id: KR4d0056_SBCK_063-11b06}
+  - {type: 'kr:newline', offset: 3299, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl216}
+  - {type: line-break, offset: 3299, content: '', id: KR4d0056_SBCK_063-11b07}
+  - {type: 'kr:newline', offset: 3317, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl217}
+  - {type: line-break, offset: 3317, content: '', id: KR4d0056_SBCK_063-11b08}
+  - {type: 'kr:newline', offset: 3319, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl218}
+  - {type: line-break, offset: 3319, content: '', id: KR4d0056_SBCK_063-11b09}
+  - {type: indent, offset: 3319, content: 　　　, id: KR4d0056_krp_063-bkkind17}
+  - {type: indent, offset: 3322, content: 　, id: KR4d0056_krp_063-bkkind18}
+  - {type: variant, offset: 3328, length: 1, content: 滕, SBCK: 􅅬}
+  - {type: 'kr:newline', offset: 3330, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl219}
+  - {type: page-break, offset: 3330, content: '', id: KR4d0056_SBCK_063-12a}
+  - {type: 'kr:newline', offset: 3330, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl220}
+  - {type: line-break, offset: 3330, content: '', id: KR4d0056_SBCK_063-12a01}
+  - {type: 'kr:newline', offset: 3348, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl221}
+  - {type: line-break, offset: 3348, content: '', id: KR4d0056_SBCK_063-12a02}
+  - {type: 'kr:newline', offset: 3366, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl222}
+  - {type: line-break, offset: 3366, content: '', id: KR4d0056_SBCK_063-12a03}
+  - {type: 'kr:newline', offset: 3384, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl223}
+  - {type: line-break, offset: 3384, content: '', id: KR4d0056_SBCK_063-12a04}
+  - {type: 'kr:newline', offset: 3386, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl224}
+  - {type: line-break, offset: 3386, content: '', id: KR4d0056_SBCK_063-12a05}
+  - {type: 'kr:newline', offset: 3404, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl225}
+  - {type: line-break, offset: 3404, content: '', id: KR4d0056_SBCK_063-12a06}
+  - {type: 'kr:newline', offset: 3422, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl226}
+  - {type: line-break, offset: 3422, content: '', id: KR4d0056_SBCK_063-12a07}
+  - {type: 'kr:newline', offset: 3440, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl227}
+  - {type: line-break, offset: 3440, content: '', id: KR4d0056_SBCK_063-12a08}
+  - {type: 'kr:newline', offset: 3442, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl228}
+  - {type: line-break, offset: 3442, content: '', id: KR4d0056_SBCK_063-12a09}
+  - {type: indent, offset: 3442, content: 　　　, id: KR4d0056_krp_063-bkkind19}
+  - {type: indent, offset: 3443, content: 　, id: KR4d0056_krp_063-bkkind20}
+  - {type: 'kr:newline', offset: 3451, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl229}
+  - {type: page-break, offset: 3451, content: '', id: KR4d0056_SBCK_063-12b}
+  - {type: 'kr:newline', offset: 3451, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl230}
+  - {type: line-break, offset: 3451, content: '', id: KR4d0056_SBCK_063-12b01}
+  - {type: 'kr:newline', offset: 3469, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl231}
+  - {type: line-break, offset: 3469, content: '', id: KR4d0056_SBCK_063-12b02}
+  - {type: 'kr:newline', offset: 3487, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl232}
+  - {type: line-break, offset: 3487, content: '', id: KR4d0056_SBCK_063-12b03}
+  - {type: variant, offset: 3497, length: 1, content: 履, SBCK: 􅂂}
+  - {type: variant, offset: 3503, length: 1, content: 慨, SBCK: 􅁣}
+  - {type: 'kr:newline', offset: 3505, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl233}
+  - {type: line-break, offset: 3505, content: '', id: KR4d0056_SBCK_063-12b04}
+  - {type: 'kr:newline', offset: 3523, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl234}
+  - {type: line-break, offset: 3523, content: '', id: KR4d0056_SBCK_063-12b05}
+  - {type: 'kr:newline', offset: 3531, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl235}
+  - {type: line-break, offset: 3531, content: '', id: KR4d0056_SBCK_063-12b06}
+  - {type: indent, offset: 3531, content: 　　　, id: KR4d0056_krp_063-bkkind21}
+  - {type: indent, offset: 3532, content: 　, id: KR4d0056_krp_063-bkkind22}
+  - {type: 'kr:newline', offset: 3538, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl236}
+  - {type: line-break, offset: 3538, content: '', id: KR4d0056_SBCK_063-12b07}
+  - {type: 'kr:newline', offset: 3556, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl237}
+  - {type: line-break, offset: 3556, content: '', id: KR4d0056_SBCK_063-12b08}
+  - {type: 'kr:newline', offset: 3574, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl238}
+  - {type: line-break, offset: 3574, content: '', id: KR4d0056_SBCK_063-12b09}
+  - {type: 'kr:newline', offset: 3578, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl239}
+  - {type: page-break, offset: 3578, content: '', id: KR4d0056_SBCK_063-13a}
+  - {type: 'kr:newline', offset: 3578, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl240}
+  - {type: line-break, offset: 3578, content: '', id: KR4d0056_SBCK_063-13a01}
+  - {type: indent, offset: 3578, content: 　　, id: KR4d0056_krp_063-bkkind23}
+  - {type: indent, offset: 3579, content: 　, id: KR4d0056_krp_063-bkkind24}
+  - {type: 'kr:newline', offset: 3585, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl241}
+  - {type: line-break, offset: 3585, content: '', id: KR4d0056_SBCK_063-13a02}
+  - {type: 'kr:newline', offset: 3603, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl242}
+  - {type: line-break, offset: 3603, content: '', id: KR4d0056_SBCK_063-13a03}
+  - {type: 'kr:newline', offset: 3613, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl243}
+  - {type: line-break, offset: 3613, content: '', id: KR4d0056_SBCK_063-13a04}
+  - {type: indent, offset: 3613, content: 　　　, id: KR4d0056_krp_063-bkkind25}
+  - {type: indent, offset: 3614, content: 　, id: KR4d0056_krp_063-bkkind26}
+  - {type: 'kr:newline', offset: 3623, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl244}
+  - {type: line-break, offset: 3623, content: '', id: KR4d0056_SBCK_063-13a05}
+  - {type: 'kr:newline', offset: 3641, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl245}
+  - {type: line-break, offset: 3641, content: '', id: KR4d0056_SBCK_063-13a06}
+  - {type: 'kr:newline', offset: 3659, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl246}
+  - {type: line-break, offset: 3659, content: '', id: KR4d0056_SBCK_063-13a07}
+  - {type: 'kr:newline', offset: 3677, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl247}
+  - {type: line-break, offset: 3677, content: '', id: KR4d0056_SBCK_063-13a08}
+  - {type: 'kr:newline', offset: 3695, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl248}
+  - {type: line-break, offset: 3695, content: '', id: KR4d0056_SBCK_063-13a09}
+  - {type: variant, offset: 3708, length: 1, content: 雙, SBCK: 􅀟}
+  - {type: 'kr:newline', offset: 3713, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl249}
+  - {type: page-break, offset: 3713, content: '', id: KR4d0056_SBCK_063-13b}
+  - {type: 'kr:newline', offset: 3713, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl250}
+  - {type: line-break, offset: 3713, content: '', id: KR4d0056_SBCK_063-13b01}
+  - {type: 'kr:newline', offset: 3723, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl251}
+  - {type: line-break, offset: 3723, content: '', id: KR4d0056_SBCK_063-13b02}
+  - {type: indent, offset: 3723, content: 　　　, id: KR4d0056_krp_063-bkkind27}
+  - {type: indent, offset: 3724, content: 　, id: KR4d0056_krp_063-bkkind28}
+  - {type: 'kr:newline', offset: 3731, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl252}
+  - {type: line-break, offset: 3731, content: '', id: KR4d0056_SBCK_063-13b03}
+  - {type: 'kr:newline', offset: 3749, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl253}
+  - {type: line-break, offset: 3749, content: '', id: KR4d0056_SBCK_063-13b04}
+  - {type: 'kr:newline', offset: 3767, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl254}
+  - {type: line-break, offset: 3767, content: '', id: KR4d0056_SBCK_063-13b05}
+  - {type: 'kr:newline', offset: 3785, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl255}
+  - {type: line-break, offset: 3785, content: '', id: KR4d0056_SBCK_063-13b06}
+  - {type: 'kr:newline', offset: 3797, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl256}
+  - {type: line-break, offset: 3797, content: '', id: KR4d0056_SBCK_063-13b07}
+  - {type: indent, offset: 3797, content: 　　　, id: KR4d0056_krp_063-bkkind29}
+  - {type: indent, offset: 3798, content: 　, id: KR4d0056_krp_063-bkkind30}
+  - {type: 'kr:newline', offset: 3806, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl257}
+  - {type: line-break, offset: 3806, content: '', id: KR4d0056_SBCK_063-13b08}
+  - {type: 'kr:newline', offset: 3824, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl258}
+  - {type: line-break, offset: 3824, content: '', id: KR4d0056_SBCK_063-13b09}
+  - {type: variant, offset: 3836, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: variant, offset: 3838, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 3842, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl259}
+  - {type: page-break, offset: 3842, content: '', id: KR4d0056_SBCK_063-14a}
+  - {type: 'kr:newline', offset: 3842, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl260}
+  - {type: line-break, offset: 3842, content: '', id: KR4d0056_SBCK_063-14a01}
+  - {type: 'kr:newline', offset: 3846, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl261}
+  - {type: line-break, offset: 3846, content: '', id: KR4d0056_SBCK_063-14a02}
+  - {type: indent, offset: 3846, content: 　　　, id: KR4d0056_krp_063-bkkind31}
+  - {type: 'kr:newline', offset: 3852, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl262}
+  - {type: line-break, offset: 3852, content: '', id: KR4d0056_SBCK_063-14a03}
+  - {type: 'kr:newline', offset: 3870, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl263}
+  - {type: line-break, offset: 3870, content: '', id: KR4d0056_SBCK_063-14a04}
+  - {type: page-break, offset: 3885, content: '', id: KR4d0056_WYG_063-2a, image: WYG1099/WYG1099-0441a.png}
+  - {type: 'kr:newline', offset: 3888, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl264}
+  - {type: line-break, offset: 3888, content: '', id: KR4d0056_SBCK_063-14a05}
+  - {type: variant, offset: 3889, length: 15, content: 王遂等謹以清酌庶羞之奠致祭于故, WYG: 新安郡開國公食邑五千二百戸食實封二千一百戸汪伯彦後序右宋}
+  - {type: 'kr:newline', offset: 3903, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl265}
+  - {type: line-break, offset: 3903, content: '', id: KR4d0056_SBCK_063-14a06}
+  - {type: variant, offset: 3906, length: 0, content: '', WYG: 員外郎宣城}
+  - {type: variant, offset: 3907, length: 1, content: 公, WYG: 堯臣聖俞}
+  - {type: variant, offset: 3910, length: 2, content: 先生, WYG: 集六十巻今宣城太守袁旭廷輔所重刻也何為刻}
+  - {type: variant, offset: 3913, length: 148, content: 墓惟宋文章曰歐與蘇有梅夫子歐蘇之徒在漢去誕於唐棄䛕八百餘年掃去朽枯如斵元氣變化百殊慶曆之盛上跨周虞顚倒奔走溢浚之都空餘翰墨一世楷模相厥寒泉在彼坤隅文氣貫天落日平蕪遂生雖晩此意中孚肅肅官僚陳其啜餔斯人逺矣不可呌呼文猶未墜其在玆乎尚饗維咸淳六年歲在庚午三月某日知寧國軍府事文天祥謹以清酌庶羞之奠致祭于, WYG: 表}
+  - {type: 'kr:newline', offset: 3921, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl266}
+  - {type: line-break, offset: 3921, content: '', id: KR4d0056_SBCK_063-14a07}
+  - {type: 'kr:newline', offset: 3939, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl267}
+  - {type: line-break, offset: 3939, content: '', id: KR4d0056_SBCK_063-14a08}
+  - {type: variant, offset: 3953, length: 1, content: 殊, SBCK: 􅊋}
+  - {type: 'kr:newline', offset: 3957, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl268}
+  - {type: line-break, offset: 3957, content: '', id: KR4d0056_SBCK_063-14a09}
+  - {type: 'kr:newline', offset: 3975, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl269}
+  - {type: page-break, offset: 3975, content: '', id: KR4d0056_SBCK_063-14b}
+  - {type: 'kr:newline', offset: 3975, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl270}
+  - {type: line-break, offset: 3975, content: '', id: KR4d0056_SBCK_063-14b01}
+  - {type: 'kr:newline', offset: 3993, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl271}
+  - {type: line-break, offset: 3993, content: '', id: KR4d0056_SBCK_063-14b02}
+  - {type: 'kr:newline', offset: 4011, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl272}
+  - {type: line-break, offset: 4011, content: '', id: KR4d0056_SBCK_063-14b03}
+  - {type: 'kr:newline', offset: 4028, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl273}
+  - {type: line-break, offset: 4028, content: '', id: KR4d0056_SBCK_063-14b04}
+  - {type: 'kr:newline', offset: 4046, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl274}
+  - {type: line-break, offset: 4046, content: '', id: KR4d0056_SBCK_063-14b05}
+  - {type: 'kr:newline', offset: 4061, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl275}
+  - {type: line-break, offset: 4061, content: '', id: KR4d0056_SBCK_063-14b06}
+  - {type: variant, offset: 4063, length: 49, content: 尚書都官宛陵先生梅公之墓而言曰大江西東實倡古文西則歐陽東則先生上追韓孟下啓蘇曾先生在天斯文有靈僕生, WYG: 以儀後進者太守職}
+  - {type: 'kr:newline', offset: 4079, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl276}
+  - {type: line-break, offset: 4079, content: '', id: KR4d0056_SBCK_063-14b07}
+  - {type: 'kr:newline', offset: 4097, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl277}
+  - {type: line-break, offset: 4097, content: '', id: KR4d0056_SBCK_063-14b08}
+  - {type: variant, offset: 4113, length: 91, content: 晚實在歐鄕天子有命來守公邦感時改火爰薦苾芳尚饗又文天祥視我廬陵夫子歐陽彰韓癉昆孕蘇育黃公於其間以詩名世葩韓搴芳肩蘇挹袂故醉翁於公之德則曰衣冠儒者也於公之詩則曰英華而雅者也翁旣與韓而終, WYG: ''}
+  - {type: 'kr:newline', offset: 4115, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl278}
+  - {type: line-break, offset: 4115, content: '', id: KR4d0056_SBCK_063-14b09}
+  - {type: variant, offset: 4125, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: 'kr:newline', offset: 4133, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl279}
+  - {type: page-break, offset: 4133, content: '', id: KR4d0056_SBCK_063-15a}
+  - {type: 'kr:newline', offset: 4133, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl280}
+  - {type: line-break, offset: 4133, content: '', id: KR4d0056_SBCK_063-15a01}
+  - {type: 'kr:newline', offset: 4136, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl281}
+  - {type: line-break, offset: 4136, content: '', id: KR4d0056_SBCK_063-15a02}
+  - {type: indent, offset: 4136, content: 　　　, id: KR4d0056_krp_063-bkkind32}
+  - {type: indent, offset: 4137, content: 　, id: KR4d0056_krp_063-bkkind33}
+  - {type: 'kr:newline', offset: 4140, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl282}
+  - {type: line-break, offset: 4140, content: '', id: KR4d0056_SBCK_063-15a03}
+  - {type: 'kr:newline', offset: 4158, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl283}
+  - {type: line-break, offset: 4158, content: '', id: KR4d0056_SBCK_063-15a04}
+  - {type: 'kr:newline', offset: 4176, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl284}
+  - {type: line-break, offset: 4176, content: '', id: KR4d0056_SBCK_063-15a05}
+  - {type: 'kr:newline', offset: 4194, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl285}
+  - {type: line-break, offset: 4194, content: '', id: KR4d0056_SBCK_063-15a06}
+  - {type: variant, offset: 4205, length: 390, content: 公亦與翁而上下公仕于何如鮎上竹生遇昭陵官同鄭谷使詩遂窮人則三百篇之作者將其身之俱不淑又劉朔齋嗚呼名位之不可兼得也乆矣然得位者榮身一時得名者流芳千載以公之文學行義雖仕不稱德而自嘉祐至今踰二百年矣天下之言詩人者必曰聖俞國人之誦所尊敬者必曰宛陵先生是則天之所以厚公者固在此而不在彼也震孫少嘗竊誦公之詩今幸守公之邦式公之墓悲其亭之乆廢而烝甞無所乃卽故址而改作焉表以石刻繚以垣墻而封植其宰木迨茲考成乃率僚寀釃酒一酹庶幾懷賢尚德之意精爽如在尚歆顧之題干越亭送君石秘校詩後閻復南昌一尉老西都文采風流接聖俞詩好見稱歐永叔書工不減蔡君謨洞庭鴈過風生葦干越峯青斗戞湖細讀粉箋當日詠終篇無字不驪珠又張斯立宛陵梅夫子才名冠當世歐蘇與並驅時稱天下士哲人去巳乆手澤見英氣可慕不可攀悠悠千古意行義魯臧孫流芳垂後裔今遇叔章君箕裘元不墜又貢奎詩還二百年來作身死三千里外官知已若論歐永叔退之猶自媿郊寒又張伯淳聖俞先生, WYG: ''}
+  - {type: 'kr:newline', offset: 4212, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl286}
+  - {type: line-break, offset: 4212, content: '', id: KR4d0056_SBCK_063-15a07}
+  - {type: 'kr:newline', offset: 4230, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl287}
+  - {type: line-break, offset: 4230, content: '', id: KR4d0056_SBCK_063-15a08}
+  - {type: 'kr:newline', offset: 4247, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl288}
+  - {type: line-break, offset: 4247, content: '', id: KR4d0056_SBCK_063-15a09}
+  - {type: indent, offset: 4247, content: 　　, id: KR4d0056_krp_063-bkkind34}
+  - {type: indent, offset: 4248, content: 　, id: KR4d0056_krp_063-bkkind35}
+  - {type: 'kr:newline', offset: 4251, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl289}
+  - {type: page-break, offset: 4251, content: '', id: KR4d0056_SBCK_063-15b}
+  - {type: 'kr:newline', offset: 4251, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl290}
+  - {type: line-break, offset: 4251, content: '', id: KR4d0056_SBCK_063-15b01}
+  - {type: 'kr:newline', offset: 4269, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl291}
+  - {type: line-break, offset: 4269, content: '', id: KR4d0056_SBCK_063-15b02}
+  - {type: 'kr:newline', offset: 4287, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl292}
+  - {type: line-break, offset: 4287, content: '', id: KR4d0056_SBCK_063-15b03}
+  - {type: 'kr:newline', offset: 4305, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl293}
+  - {type: line-break, offset: 4305, content: '', id: KR4d0056_SBCK_063-15b04}
+  - {type: 'kr:newline', offset: 4323, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl294}
+  - {type: line-break, offset: 4323, content: '', id: KR4d0056_SBCK_063-15b05}
+  - {type: 'kr:newline', offset: 4341, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl295}
+  - {type: line-break, offset: 4341, content: '', id: KR4d0056_SBCK_063-15b06}
+  - {type: variant, offset: 4357, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: 'kr:newline', offset: 4359, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl296}
+  - {type: line-break, offset: 4359, content: '', id: KR4d0056_SBCK_063-15b07}
+  - {type: 'kr:newline', offset: 4377, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl297}
+  - {type: line-break, offset: 4377, content: '', id: KR4d0056_SBCK_063-15b08}
+  - {type: 'kr:newline', offset: 4395, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl298}
+  - {type: line-break, offset: 4395, content: '', id: KR4d0056_SBCK_063-15b09}
+  - {type: 'kr:newline', offset: 4413, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl299}
+  - {type: page-break, offset: 4413, content: '', id: KR4d0056_SBCK_063-16a}
+  - {type: 'kr:newline', offset: 4413, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl300}
+  - {type: line-break, offset: 4413, content: '', id: KR4d0056_SBCK_063-16a01}
+  - {type: 'kr:newline', offset: 4423, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl301}
+  - {type: line-break, offset: 4423, content: '', id: KR4d0056_SBCK_063-16a02}
+  - {type: indent, offset: 4423, content: 　　　, id: KR4d0056_krp_063-bkkind36}
+  - {type: indent, offset: 4434, content: 　, id: KR4d0056_krp_063-bkkind37}
+  - {type: 'kr:newline', offset: 4436, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl302}
+  - {type: line-break, offset: 4436, content: '', id: KR4d0056_SBCK_063-16a03}
+  - {type: 'kr:newline', offset: 4454, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl303}
+  - {type: line-break, offset: 4454, content: '', id: KR4d0056_SBCK_063-16a04}
+  - {type: 'kr:newline', offset: 4472, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl304}
+  - {type: line-break, offset: 4472, content: '', id: KR4d0056_SBCK_063-16a05}
+  - {type: 'kr:newline', offset: 4490, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl305}
+  - {type: line-break, offset: 4490, content: '', id: KR4d0056_SBCK_063-16a06}
+  - {type: 'kr:newline', offset: 4492, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl306}
+  - {type: line-break, offset: 4492, content: '', id: KR4d0056_SBCK_063-16a07}
+  - {type: indent, offset: 4492, content: 　　, id: KR4d0056_krp_063-bkkind38}
+  - {type: indent, offset: 4493, content: 　, id: KR4d0056_krp_063-bkkind39}
+  - {type: 'kr:newline', offset: 4496, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl307}
+  - {type: line-break, offset: 4496, content: '', id: KR4d0056_SBCK_063-16a08}
+  - {type: 'kr:newline', offset: 4514, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl308}
+  - {type: line-break, offset: 4514, content: '', id: KR4d0056_SBCK_063-16a09}
+  - {type: 'kr:newline', offset: 4532, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl309}
+  - {type: page-break, offset: 4532, content: '', id: KR4d0056_SBCK_063-16b}
+  - {type: 'kr:newline', offset: 4532, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl310}
+  - {type: line-break, offset: 4532, content: '', id: KR4d0056_SBCK_063-16b01}
+  - {type: 'kr:newline', offset: 4550, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl311}
+  - {type: line-break, offset: 4550, content: '', id: KR4d0056_SBCK_063-16b02}
+  - {type: 'kr:newline', offset: 4556, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl312}
+  - {type: line-break, offset: 4556, content: '', id: KR4d0056_SBCK_063-16b03}
+  - {type: indent, offset: 4556, content: 　　, id: KR4d0056_krp_063-bkkind40}
+  - {type: indent, offset: 4557, content: 　, id: KR4d0056_krp_063-bkkind41}
+  - {type: 'kr:newline', offset: 4559, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl313}
+  - {type: line-break, offset: 4559, content: '', id: KR4d0056_SBCK_063-16b04}
+  - {type: 'kr:newline', offset: 4577, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl314}
+  - {type: line-break, offset: 4577, content: '', id: KR4d0056_SBCK_063-16b05}
+  - {type: 'kr:newline', offset: 4587, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl315}
+  - {type: line-break, offset: 4587, content: '', id: KR4d0056_SBCK_063-16b06}
+  - {type: indent, offset: 4587, content: 　　　, id: KR4d0056_krp_063-bkkind42}
+  - {type: indent, offset: 4588, content: 　, id: KR4d0056_krp_063-bkkind43}
+  - {type: 'kr:newline', offset: 4591, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl316}
+  - {type: line-break, offset: 4591, content: '', id: KR4d0056_SBCK_063-16b07}
+  - {type: variant, offset: 4597, length: 14, content: 裏經行脩明教胄子不特詩名滿世, WYG: 郡政久弛袁君至單志竭慮薙姦滌穢朞歳之}
+  - {type: 'kr:newline', offset: 4609, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl317}
+  - {type: line-break, offset: 4609, content: '', id: KR4d0056_SBCK_063-16b08}
+  - {type: variant, offset: 4612, length: 21, content: 紀載精詳繼前史當時晦叔誦其文曰二百年未有此, WYG: 横民以戢良民以妥修舉學政爰興敎化表章}
+  - {type: 'kr:newline', offset: 4627, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl318}
+  - {type: line-break, offset: 4627, content: '', id: KR4d0056_SBCK_063-16b09}
+  - {type: variant, offset: 4634, length: 111, content: 生㤗山北斗然管窺蠡測難爲言我從聞孫見手澤定知家學有根源繭𥿄可腐石可泐世美自有不朽存又劉必大先生文章在青史先生勲名揭白日誰謂二百有餘年得見兩詩親翰筆花箋松煤色尚鮮元祐偉人如再出名器時來或可求家珤世傳難可必叔章持此上天朝橫斗高, WYG: 賢}
+  - {type: 'kr:newline', offset: 4645, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl319}
+  - {type: page-break, offset: 4645, content: '', id: KR4d0056_SBCK_063-17a}
+  - {type: 'kr:newline', offset: 4645, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl320}
+  - {type: line-break, offset: 4645, content: '', id: KR4d0056_SBCK_063-17a01}
+  - {type: variant, offset: 4662, length: 1, content: 𥿄, SBCK: 􅁓}
+  - {type: 'kr:newline', offset: 4663, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl321}
+  - {type: line-break, offset: 4663, content: '', id: KR4d0056_SBCK_063-17a02}
+  - {type: 'kr:newline', offset: 4675, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl322}
+  - {type: line-break, offset: 4675, content: '', id: KR4d0056_SBCK_063-17a03}
+  - {type: indent, offset: 4675, content: 　　, id: KR4d0056_krp_063-bkkind44}
+  - {type: indent, offset: 4676, content: 　, id: KR4d0056_krp_063-bkkind45}
+  - {type: 'kr:newline', offset: 4679, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl323}
+  - {type: line-break, offset: 4679, content: '', id: KR4d0056_SBCK_063-17a04}
+  - {type: 'kr:newline', offset: 4697, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl324}
+  - {type: line-break, offset: 4697, content: '', id: KR4d0056_SBCK_063-17a05}
+  - {type: 'kr:newline', offset: 4715, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl325}
+  - {type: line-break, offset: 4715, content: '', id: KR4d0056_SBCK_063-17a06}
+  - {type: 'kr:newline', offset: 4733, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl326}
+  - {type: line-break, offset: 4733, content: '', id: KR4d0056_SBCK_063-17a07}
+  - {type: variant, offset: 4746, length: 5, content: 低少室又王, WYG: 勵多}
+  - {type: 'kr:newline', offset: 4749, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl327}
+  - {type: line-break, offset: 4749, content: '', id: KR4d0056_SBCK_063-17a08}
+  - {type: indent, offset: 4749, content: 　　　, id: KR4d0056_krp_063-bkkind46}
+  - {type: indent, offset: 4750, content: 　, id: KR4d0056_krp_063-bkkind47}
+  - {type: variant, offset: 4752, length: 149, content: 熈宛水留荒宅空山老栢株詩名唐正體經法漢先儒賢裔今重見高風古亦無郞官爲直講遺說辯精麤又汪澤民宋代文章梅與歐薦賢何不致公侯宛陵詩老名千載嘉祐郞官閟一丘調寫心聲諧寶瑟書存手澤粲銀鉤曾經干越琵琶尾愁絕西風鴈過秋跋前二詩茍宗道拜觀宛陵梅先生手書寄題干越亭送君石秘校尉河内之作詩律謹嚴楷法莊重盖天禀仁厚樂易發見, WYG: ''}
+  - {type: 'kr:newline', offset: 4753, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl328}
+  - {type: line-break, offset: 4753, content: '', id: KR4d0056_SBCK_063-17a09}
+  - {type: 'kr:newline', offset: 4771, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl329}
+  - {type: page-break, offset: 4771, content: '', id: KR4d0056_SBCK_063-17b}
+  - {type: 'kr:newline', offset: 4771, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl330}
+  - {type: line-break, offset: 4771, content: '', id: KR4d0056_SBCK_063-17b01}
+  - {type: 'kr:newline', offset: 4789, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl331}
+  - {type: line-break, offset: 4789, content: '', id: KR4d0056_SBCK_063-17b02}
+  - {type: variant, offset: 4789, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 4793, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl332}
+  - {type: line-break, offset: 4793, content: '', id: KR4d0056_SBCK_063-17b03}
+  - {type: indent, offset: 4793, content: 　　　, id: KR4d0056_krp_063-bkkind48}
+  - {type: indent, offset: 4794, content: 　, id: KR4d0056_krp_063-bkkind49}
+  - {type: 'kr:newline', offset: 4797, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl333}
+  - {type: line-break, offset: 4797, content: '', id: KR4d0056_SBCK_063-17b04}
+  - {type: 'kr:newline', offset: 4815, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl334}
+  - {type: line-break, offset: 4815, content: '', id: KR4d0056_SBCK_063-17b05}
+  - {type: 'kr:newline', offset: 4833, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl335}
+  - {type: line-break, offset: 4833, content: '', id: KR4d0056_SBCK_063-17b06}
+  - {type: 'kr:newline', offset: 4851, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl336}
+  - {type: line-break, offset: 4851, content: '', id: KR4d0056_SBCK_063-17b07}
+  - {type: 'kr:newline', offset: 4853, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl337}
+  - {type: line-break, offset: 4853, content: '', id: KR4d0056_SBCK_063-17b08}
+  - {type: indent, offset: 4853, content: 　　　, id: KR4d0056_krp_063-bkkind50}
+  - {type: indent, offset: 4857, content: 　, id: KR4d0056_krp_063-bkkind51}
+  - {type: 'kr:newline', offset: 4860, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl338}
+  - {type: line-break, offset: 4860, content: '', id: KR4d0056_SBCK_063-17b09}
+  - {type: variant, offset: 4869, length: 1, content: 寄, SBCK: 􅀉}
+  - {type: 'kr:newline', offset: 4878, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl339}
+  - {type: page-break, offset: 4878, content: '', id: KR4d0056_SBCK_063-18a}
+  - {type: 'kr:newline', offset: 4878, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl340}
+  - {type: line-break, offset: 4878, content: '', id: KR4d0056_SBCK_063-18a01}
+  - {type: 'kr:newline', offset: 4896, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl341}
+  - {type: line-break, offset: 4896, content: '', id: KR4d0056_SBCK_063-18a02}
+  - {type: variant, offset: 4902, length: 282, content: 心聲心畫自有不能掩者歐陽公謂氣完力餘益老以勁斯二章足以當之矣又宋渤前軰文章字畫無不楷謹精宻者正若平生大節余嘗見昌黎韓公福先寺下題名歐陽文忠公集古跋尾司馬文正公日曆東坡論語解易說皆起草時冊子雖旁注細書一一端正可讀至圈改行間悉可見其先後用意處今觀梅屯田公自書詩兩章校其同時諸人若一軌轍又用筆作方闊法李西臺蔡端明然又陳儼宛陵公去世二百餘年今觀遺墨二詩猶旦暮遇之也或以爲平淡或以爲枯槁惟具眼能識之惟公生而卒以詩窮死然世愈逺而愈増重雖與日月爭光可也視當時烜赫者溘然泯黙不復知爲何人相去盖有間矣亦可謂一世之屈百世之信者歟寥寥遺響子其嗣之又李倜樊宗師苦心琢句非韓公不能見知於世梅, WYG: 是修}
+  - {type: 'kr:newline', offset: 4914, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl342}
+  - {type: line-break, offset: 4914, content: '', id: KR4d0056_SBCK_063-18a03}
+  - {type: 'kr:newline', offset: 4932, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl343}
+  - {type: line-break, offset: 4932, content: '', id: KR4d0056_SBCK_063-18a04}
+  - {type: indent, offset: 4932, content: 　　　, id: KR4d0056_krp_063-bkkind52}
+  - {type: indent, offset: 4933, content: 　, id: KR4d0056_krp_063-bkkind53}
+  - {type: 'kr:newline', offset: 4935, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl344}
+  - {type: line-break, offset: 4935, content: '', id: KR4d0056_SBCK_063-18a05}
+  - {type: 'kr:newline', offset: 4953, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl345}
+  - {type: line-break, offset: 4953, content: '', id: KR4d0056_SBCK_063-18a06}
+  - {type: variant, offset: 4958, length: 1, content: 黎, SBCK: 􅀺}
+  - {type: 'kr:newline', offset: 4971, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl346}
+  - {type: line-break, offset: 4971, content: '', id: KR4d0056_SBCK_063-18a07}
+  - {type: 'kr:newline', offset: 4989, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl347}
+  - {type: line-break, offset: 4989, content: '', id: KR4d0056_SBCK_063-18a08}
+  - {type: variant, offset: 4989, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 5007, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl348}
+  - {type: line-break, offset: 5007, content: '', id: KR4d0056_SBCK_063-18a09}
+  - {type: 'kr:newline', offset: 5025, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl349}
+  - {type: page-break, offset: 5025, content: '', id: KR4d0056_SBCK_063-18b}
+  - {type: 'kr:newline', offset: 5025, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl350}
+  - {type: line-break, offset: 5025, content: '', id: KR4d0056_SBCK_063-18b01}
+  - {type: variant, offset: 5040, length: 1, content: 軌, SBCK: 􅁤}
+  - {type: 'kr:newline', offset: 5043, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl351}
+  - {type: line-break, offset: 5043, content: '', id: KR4d0056_SBCK_063-18b02}
+  - {type: 'kr:newline', offset: 5056, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl352}
+  - {type: line-break, offset: 5056, content: '', id: KR4d0056_SBCK_063-18b03}
+  - {type: indent, offset: 5056, content: 　　　, id: KR4d0056_krp_063-bkkind54}
+  - {type: indent, offset: 5057, content: 　, id: KR4d0056_krp_063-bkkind55}
+  - {type: 'kr:newline', offset: 5059, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl353}
+  - {type: line-break, offset: 5059, content: '', id: KR4d0056_SBCK_063-18b04}
+  - {type: 'kr:newline', offset: 5077, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl354}
+  - {type: line-break, offset: 5077, content: '', id: KR4d0056_SBCK_063-18b05}
+  - {type: 'kr:newline', offset: 5095, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl355}
+  - {type: line-break, offset: 5095, content: '', id: KR4d0056_SBCK_063-18b06}
+  - {type: 'kr:newline', offset: 5113, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl356}
+  - {type: line-break, offset: 5113, content: '', id: KR4d0056_SBCK_063-18b07}
+  - {type: 'kr:newline', offset: 5131, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl357}
+  - {type: line-break, offset: 5131, content: '', id: KR4d0056_SBCK_063-18b08}
+  - {type: 'kr:newline', offset: 5149, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl358}
+  - {type: line-break, offset: 5149, content: '', id: KR4d0056_SBCK_063-18b09}
+  - {type: 'kr:newline', offset: 5164, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl359}
+  - {type: page-break, offset: 5164, content: '', id: KR4d0056_SBCK_063-19a}
+  - {type: 'kr:newline', offset: 5164, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl360}
+  - {type: line-break, offset: 5164, content: '', id: KR4d0056_SBCK_063-19a01}
+  - {type: indent, offset: 5164, content: 　　　, id: KR4d0056_krp_063-bkkind56}
+  - {type: indent, offset: 5165, content: 　, id: KR4d0056_krp_063-bkkind57}
+  - {type: 'kr:newline', offset: 5167, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl361}
+  - {type: line-break, offset: 5167, content: '', id: KR4d0056_SBCK_063-19a02}
+  - {type: 'kr:newline', offset: 5185, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl362}
+  - {type: line-break, offset: 5185, content: '', id: KR4d0056_SBCK_063-19a03}
+  - {type: variant, offset: 5187, length: 1, content: 於, WYG: 墳率學諸生行展謁之禮而詢求其文蓋郡人莫或知者及訪都官之後始得此編遂刻以傳聖俞當仁宗朝與韓范冨}
+  - {type: page-break, offset: 5187, content: '', id: KR4d0056_WYG_063-2b, image: WYG1099/WYG1099-0441b.png}
+  - {type: variant, offset: 5189, length: 1, content: 陽, WYG: 諸}
+  - {type: variant, offset: 5191, length: 93, content: 亦然何異世而同軌也耶仍孫奕芳持公干越亭并送君石秘校二詩出示亦可想見其風度矣咨藏之勿墜又元明善梅宛陵負一代詩名歐陽公吃吃推重想當日課一首用心亦苦矣妙墨二𥿄髣髴得其勁氣愈信歐公爲知人又張與材, WYG: 游}
+  - {type: variant, offset: 5198, length: 1, content: 軌, SBCK: 􅁤}
+  - {type: 'kr:newline', offset: 5203, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl363}
+  - {type: line-break, offset: 5203, content: '', id: KR4d0056_SBCK_063-19a04}
+  - {type: 'kr:newline', offset: 5221, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl364}
+  - {type: line-break, offset: 5221, content: '', id: KR4d0056_SBCK_063-19a05}
+  - {type: 'kr:newline', offset: 5233, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl365}
+  - {type: line-break, offset: 5233, content: '', id: KR4d0056_SBCK_063-19a06}
+  - {type: indent, offset: 5233, content: 　　　, id: KR4d0056_krp_063-bkkind58}
+  - {type: indent, offset: 5234, content: 　, id: KR4d0056_krp_063-bkkind59}
+  - {type: 'kr:newline', offset: 5237, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl366}
+  - {type: line-break, offset: 5237, content: '', id: KR4d0056_SBCK_063-19a07}
+  - {type: variant, offset: 5240, length: 1, content: 負, SBCK: 􅀒}
+  - {type: 'kr:newline', offset: 5255, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl367}
+  - {type: line-break, offset: 5255, content: '', id: KR4d0056_SBCK_063-19a08}
+  - {type: variant, offset: 5266, length: 1, content: 𥿄, SBCK: 􅁓}
+  - {type: 'kr:newline', offset: 5273, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl368}
+  - {type: line-break, offset: 5273, content: '', id: KR4d0056_SBCK_063-19a09}
+  - {type: 'kr:newline', offset: 5280, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl369}
+  - {type: page-break, offset: 5280, content: '', id: KR4d0056_SBCK_063-19b}
+  - {type: 'kr:newline', offset: 5280, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl370}
+  - {type: line-break, offset: 5280, content: '', id: KR4d0056_SBCK_063-19b01}
+  - {type: indent, offset: 5280, content: 　　　, id: KR4d0056_krp_063-bkkind60}
+  - {type: indent, offset: 5281, content: 　, id: KR4d0056_krp_063-bkkind61}
+  - {type: 'kr:newline', offset: 5284, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl371}
+  - {type: line-break, offset: 5284, content: '', id: KR4d0056_SBCK_063-19b02}
+  - {type: variant, offset: 5288, length: 1, content: 爲, WYG: 特盛於時最初王文康公曙覽之歎曰三百年無此作矣而見知}
+  - {type: variant, offset: 5290, length: 1, content: 蘇, WYG: 公尤深相與尤密時蓋有儗歐梅於韓孟者非宣城山川靈秀之}
+  - {type: variant, offset: 5292, length: 2, content: 重後, WYG: 鍾歟今天下學士君子皆知聖俞為宣之傑出顧宣}
+  - {type: variant, offset: 5296, length: 0, content: '', WYG: 有不能如此袁君之心所}
+  - {type: variant, offset: 5298, length: 10, content: 復議矣獨翰墨見於世者, WYG: 已也聖俞平生所著又有唐載廿六巻詩小傳廿巻注孫子十三篇又嘗編修唐書此亦後來宣之人所當知也因并及之正綂己未冬十一月乙巳朔光祿大夫}
+  - {type: page-break, offset: 5298, content: '', id: KR4d0056_WYG_063-3a, image: WYG1099/WYG1099-0441c.png}
+  - {type: 'kr:newline', offset: 5302, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl372}
+  - {type: line-break, offset: 5302, content: '', id: KR4d0056_SBCK_063-19b03}
+  - {type: variant, offset: 5309, length: 21, content: 其八世孫叔章能珤藏之今觀其筆意瀟散有高人逸, WYG: 師兵部尚書華蓋殿大學}
+  - {type: 'kr:newline', offset: 5320, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl373}
+  - {type: line-break, offset: 5320, content: '', id: KR4d0056_SBCK_063-19b04}
+  - {type: variant, offset: 5331, length: 145, content: 風度此豈汲汲於聲利者心畫正爾豈特坐詩窮耶又龔嘯去浮靡之習超然於昆體極弊之際存古淡之道卓然於諸大家未起之先此所以爲梅都官詩也當聲名文物之盛有歐公爲之依歸而歐公收拾人才識拔於科舉之外者於先生與老泉可謂不遺餘力矣雅道相與輝映千古猶計官資而曰不遇是孰爲有遇乎尚論其世誦其詩讀其書必知其人者始足以語此, WYG: 廬陵楊士奇題}
+  - {type: 'kr:newline', offset: 5338, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl374}
+  - {type: line-break, offset: 5338, content: '', id: KR4d0056_SBCK_063-19b05}
+  - {type: 'kr:newline', offset: 5351, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl375}
+  - {type: line-break, offset: 5351, content: '', id: KR4d0056_SBCK_063-19b06}
+  - {type: indent, offset: 5351, content: 　　　, id: KR4d0056_krp_063-bkkind62}
+  - {type: indent, offset: 5352, content: 　, id: KR4d0056_krp_063-bkkind63}
+  - {type: 'kr:newline', offset: 5354, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl376}
+  - {type: line-break, offset: 5354, content: '', id: KR4d0056_SBCK_063-19b07}
+  - {type: 'kr:newline', offset: 5372, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl377}
+  - {type: line-break, offset: 5372, content: '', id: KR4d0056_SBCK_063-19b08}
+  - {type: 'kr:newline', offset: 5390, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl378}
+  - {type: line-break, offset: 5390, content: '', id: KR4d0056_SBCK_063-19b09}
+  - {type: 'kr:newline', offset: 5408, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl379}
+  - {type: page-break, offset: 5408, content: '', id: KR4d0056_SBCK_063-20a}
+  - {type: 'kr:newline', offset: 5408, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl380}
+  - {type: line-break, offset: 5408, content: '', id: KR4d0056_SBCK_063-20a01}
+  - {type: 'kr:newline', offset: 5426, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl381}
+  - {type: line-break, offset: 5426, content: '', id: KR4d0056_SBCK_063-20a02}
+  - {type: 'kr:newline', offset: 5444, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl382}
+  - {type: line-break, offset: 5444, content: '', id: KR4d0056_SBCK_063-20a03}
+  - {type: 'kr:newline', offset: 5462, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl383}
+  - {type: line-break, offset: 5462, content: '', id: KR4d0056_SBCK_063-20a04}
+  - {type: page-break, offset: 5476, content: '', id: KR4d0056_WYG_063-3b, image: WYG1099/WYG1099-0441d.png}
+  - {type: variant, offset: 5478, length: 186, content: 先生之鄕子孫在焉叔章暇日岀示真蹟使人歆慕無巳按尚書屯田貟外郞當是階官後遷都官耳卽元豐官制改後朝奉郞也國子監直講乃是職事官宋初巳置常選通經有實行者爲之宜歐公以爲公薦也書局編脩亦公辟云跋㑹慶堂記後汪澤民宛陵梅先生爲文以記㑹慶堂其奉先思孝如存之誠至矣歲乆石泐嗣孫致逺致和寔等具碑請余重書刻置堂上噫繼自今歲時禴烝百世一日則梅氏子孫之職釋子能固護棐栢如澄展之心則各盡其道矣尚朂之謹之, WYG: 集拾遺}
+  - {type: 'kr:newline', offset: 5480, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl384}
+  - {type: line-break, offset: 5480, content: '', id: KR4d0056_SBCK_063-20a05}
+  - {type: 'kr:newline', offset: 5498, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl385}
+  - {type: line-break, offset: 5498, content: '', id: KR4d0056_SBCK_063-20a06}
+  - {type: 'kr:newline', offset: 5516, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl386}
+  - {type: line-break, offset: 5516, content: '', id: KR4d0056_SBCK_063-20a07}
+  - {type: 'kr:newline', offset: 5534, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl387}
+  - {type: line-break, offset: 5534, content: '', id: KR4d0056_SBCK_063-20a08}
+  - {type: 'kr:newline', offset: 5552, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl388}
+  - {type: line-break, offset: 5552, content: '', id: KR4d0056_SBCK_063-20a09}
+  - {type: 'kr:newline', offset: 5568, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl389}
+  - {type: page-break, offset: 5568, content: '', id: KR4d0056_SBCK_063-20b}
+  - {type: 'kr:newline', offset: 5568, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl390}
+  - {type: line-break, offset: 5568, content: '', id: KR4d0056_SBCK_063-20b01}
+  - {type: indent, offset: 5568, content: 　　　, id: KR4d0056_krp_063-bkkind64}
+  - {type: indent, offset: 5574, content: 　, id: KR4d0056_krp_063-bkkind65}
+  - {type: 'kr:newline', offset: 5577, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl391}
+  - {type: line-break, offset: 5577, content: '', id: KR4d0056_SBCK_063-20b02}
+  - {type: 'kr:newline', offset: 5595, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl392}
+  - {type: line-break, offset: 5595, content: '', id: KR4d0056_SBCK_063-20b03}
+  - {type: 'kr:newline', offset: 5613, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl393}
+  - {type: line-break, offset: 5613, content: '', id: KR4d0056_SBCK_063-20b04}
+  - {type: 'kr:newline', offset: 5631, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl394}
+  - {type: line-break, offset: 5631, content: '', id: KR4d0056_SBCK_063-20b05}
+  - {type: 'kr:newline', offset: 5649, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl395}
+  - {type: line-break, offset: 5649, content: '', id: KR4d0056_SBCK_063-20b06}
+  - {type: 'kr:newline', offset: 5664, content: '
+
+      ', id: KR4d0056_krp_063-bkkkrnewl396}
+  back: []
+hash: sha256:d0f985a9989c1f7f568e4b13aba456582570b0f95dd3c96ab2bef71b2319ac3b
