@@ -885,6 +885,7 @@ markers:
   - {type: indent, offset: 1697, content: 　　, id: KR4d0056_krp_005-bkkind31}
   - {type: variant, offset: 1697, length: 5, content: 池州後詩下, WYG: ''}
   - {type: punctuation, offset: 1701, content: (, id: KR4d0056_krp_005-bkkpn1}
+  - {type: voice, offset: 1701, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1702, content: ), id: KR4d0056_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 1702, content: '
 
@@ -1904,6 +1905,7 @@ markers:
   - {type: line-break, offset: 3816, content: '', id: KR4d0056_SBCK_005-18a02}
   - {type: indent, offset: 3816, content: 　, id: KR4d0056_krp_005-bkkind66}
   - {type: punctuation, offset: 3820, content: (, id: KR4d0056_krp_005-bkkpn3}
+  - {type: voice, offset: 3820, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3821, content: ), id: KR4d0056_krp_005-bkkpn4}
   - {type: 'kr:newline', offset: 3821, content: '
 
@@ -2005,6 +2007,7 @@ markers:
   - {type: line-break, offset: 3951, content: '', id: KR4d0056_SBCK_005-18b08}
   - {type: indent, offset: 3951, content: 　, id: KR4d0056_krp_005-bkkind95}
   - {type: punctuation, offset: 3954, content: (, id: KR4d0056_krp_005-bkkpn5}
+  - {type: voice, offset: 3954, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3955, content: ), id: KR4d0056_krp_005-bkkpn6}
   - {type: 'kr:newline', offset: 3955, content: '
 
@@ -2133,4 +2136,4 @@ markers:
 
       ', id: KR4d0056_krp_005-bkkkrnewl371}
   back: []
-hash: sha256:257729907d5b32c2162c66f196ee171f5c39a451b6c98b1d29735dea1a6c1064
+hash: sha256:ac5a9e91623e6704a133a9db485b24fab6a73b26cb56415a24f6851ed73f5448

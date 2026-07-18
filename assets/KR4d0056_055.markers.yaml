@@ -73,6 +73,7 @@ markers:
   - {type: variant, offset: 111, length: 1, content: 黃, WYG: 黄}
   - {type: punctuation, offset: 117, content: (, id: KR4d0056_krp_055-bkkpn1}
   - {type: variant, offset: 117, length: 1, content: 緘, WYG: ''}
+  - {type: voice, offset: 117, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 118, content: ), id: KR4d0056_krp_055-bkkpn2}
   - {type: 'kr:newline', offset: 118, content: '
 
@@ -1566,4 +1567,4 @@ markers:
 
       ', id: KR4d0056_krp_055-bkkkrnewl263}
   back: []
-hash: sha256:0f04d809554ca8c6707d23fb2fae5985ca53ec24b538969dffbc686a153f8ac1
+hash: sha256:4c2149d8f09728b793528dd53baca5571d685b5b680246f5ea8b9ef72d1e88ae

@@ -324,6 +324,7 @@ markers:
   - {type: variant, offset: 634, length: 1, content: 㑹, WYG: 會}
   - {type: substitution, offset: 634, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 635, content: (, id: KR4d0056_krp_002-bkkpn1}
+  - {type: voice, offset: 635, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 638, content: ), id: KR4d0056_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 638, content: '
 
@@ -638,6 +639,7 @@ markers:
   - {type: variant, offset: 1227, length: 1, content: 謌, WYG: 歌}
   - {type: substitution, offset: 1227, original: 謌, replacement: 歌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17671}}
   - {type: punctuation, offset: 1228, content: (, id: KR4d0056_krp_002-bkkpn3}
+  - {type: voice, offset: 1228, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 1232, content: /, id: KR4d0056_krp_002-bkkpn4}
   - {type: punctuation, offset: 1236, content: ), id: KR4d0056_krp_002-bkkpn5}
   - {type: 'kr:newline', offset: 1236, content: '
@@ -795,6 +797,7 @@ markers:
   - {type: variant, offset: 1585, length: 1, content: 雨, SBCK: 􅀨}
   - {type: variant, offset: 1588, length: 1, content: 靜, WYG: 静}
   - {type: punctuation, offset: 1594, content: (, id: KR4d0056_krp_002-bkkpn6}
+  - {type: voice, offset: 1594, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1597, content: /, id: KR4d0056_krp_002-bkkpn7}
   - {type: punctuation, offset: 1600, content: ), id: KR4d0056_krp_002-bkkpn8}
   - {type: 'kr:newline', offset: 1603, content: '
@@ -928,6 +931,7 @@ markers:
       ', id: KR4d0056_krp_002-bkkkrnewl154}
   - {type: line-break, offset: 1919, content: '', id: KR4d0056_SBCK_002-8b05}
   - {type: punctuation, offset: 1921, content: (, id: KR4d0056_krp_002-bkkpn9}
+  - {type: voice, offset: 1921, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1922, content: /, id: KR4d0056_krp_002-bkkpn10}
   - {type: variant, offset: 1922, length: 1, content: 韻, WYG: ''}
   - {type: punctuation, offset: 1923, content: ), id: KR4d0056_krp_002-bkkpn11}
@@ -1595,4 +1599,4 @@ markers:
   - {type: variant, offset: 3139, length: 0, content: '', WYG: 歌長緑桂薰輕服靈符佩縹囊西鄰空自賦不解到君傍宛陵集卷二}
   - {type: page-break, offset: 3139, content: '', id: KR4d0056_WYG_002-13b, image: WYG1099/WYG1099-0021b.png}
   back: []
-hash: sha256:000f11551460ec200e92d64ac6b7ea7eb4cc829c56fdcebaa1e5b0b685560b2e
+hash: sha256:a39be70c45364062724cacb38c85b2c7c1e6758f73d9be573261438e252e2e4e

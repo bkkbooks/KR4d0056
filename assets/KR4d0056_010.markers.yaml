@@ -185,6 +185,7 @@ markers:
   - {type: indent, offset: 325, content: 　　　, id: KR4d0056_krp_010-bkkind8}
   - {type: variant, offset: 335, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 336, content: (, id: KR4d0056_krp_010-bkkpn1}
+  - {type: voice, offset: 336, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 340, content: ), id: KR4d0056_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 340, content: '
 
@@ -699,6 +700,7 @@ markers:
   - {type: indent, offset: 1384, content: 　　　, id: KR4d0056_krp_010-bkkind27}
   - {type: variant, offset: 1388, length: 1, content: 詞, WYG: 辭}
   - {type: punctuation, offset: 1389, content: (, id: KR4d0056_krp_010-bkkpn3}
+  - {type: voice, offset: 1389, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1391, content: ), id: KR4d0056_krp_010-bkkpn4}
   - {type: 'kr:newline', offset: 1391, content: '
 
@@ -2096,4 +2098,4 @@ markers:
 
       ', id: KR4d0056_krp_010-bkkkrnewl367}
   back: []
-hash: sha256:16d10c4f7b548a4fb4fb1cdd4dc073d977681a9e0c0f376e9c0725339a419e6e
+hash: sha256:317e7b19e8e84893d2696eea5504408c1598c185abe9993d905fe3123e5a95c5

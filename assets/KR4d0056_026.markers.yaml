@@ -556,6 +556,7 @@ markers:
   - {type: variant, offset: 1085, length: 1, content: 飮, WYG: 飲}
   - {type: substitution, offset: 1086, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 1087, content: (, id: KR4d0056_krp_026-bkkpn1}
+  - {type: voice, offset: 1087, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 1090, content: /, id: KR4d0056_krp_026-bkkpn2}
   - {type: punctuation, offset: 1093, content: ), id: KR4d0056_krp_026-bkkpn3}
   - {type: 'kr:newline', offset: 1093, content: '
@@ -1809,4 +1810,4 @@ markers:
 
       ', id: KR4d0056_krp_026-bkkkrnewl300}
   back: []
-hash: sha256:615037621cf156a9db4ac21c9fd8c7e50fd58a642dba22a8fad7aaf3b85edd46
+hash: sha256:ed2d1550921ad01ee72bf18ba547dab80b4a9863e63edc5d12f9f0e84d1139db

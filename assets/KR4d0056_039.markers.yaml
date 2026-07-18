@@ -748,6 +748,7 @@ markers:
   - {type: variant, offset: 1675, length: 1, content: 冨, WYG: 富}
   - {type: variant, offset: 1677, length: 1, content: 辟, WYG: 弼}
   - {type: punctuation, offset: 1678, content: (, id: KR4d0056_krp_039-bkkpn1}
+  - {type: voice, offset: 1678, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1680, content: ), id: KR4d0056_krp_039-bkkpn2}
   - {type: 'kr:newline', offset: 1680, content: '
 
@@ -827,6 +828,7 @@ markers:
   - {type: variant, offset: 1899, length: 1, content: 鄕, WYG: 鄉}
   - {type: substitution, offset: 1899, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19673}}
   - {type: punctuation, offset: 1900, content: (, id: KR4d0056_krp_039-bkkpn3}
+  - {type: voice, offset: 1900, length: 17, name: note, id: n2}
   - {type: punctuation, offset: 1902, content: /, id: KR4d0056_krp_039-bkkpn4}
   - {type: punctuation, offset: 1904, content: ), id: KR4d0056_krp_039-bkkpn5}
   - {type: 'kr:newline', offset: 1904, content: '
@@ -844,6 +846,7 @@ markers:
   - {type: indent, offset: 1917, content: 　　　, id: KR4d0056_krp_039-bkkind22}
   - {type: page-break, offset: 1917, content: '', id: KR4d0056_WYG_039-8a, image: WYG1099/WYG1099-0294a.png}
   - {type: punctuation, offset: 1922, content: (, id: KR4d0056_krp_039-bkkpn9}
+  - {type: voice, offset: 1922, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1924, content: ), id: KR4d0056_krp_039-bkkpn10}
   - {type: 'kr:newline', offset: 1924, content: '
 
@@ -991,6 +994,7 @@ markers:
   - {type: variant, offset: 2242, length: 1, content: 鄕, WYG: 鄉}
   - {type: substitution, offset: 2242, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19673}}
   - {type: punctuation, offset: 2244, content: (, id: KR4d0056_krp_039-bkkpn11}
+  - {type: voice, offset: 2244, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 2247, content: /, id: KR4d0056_krp_039-bkkpn12}
   - {type: punctuation, offset: 2250, content: ), id: KR4d0056_krp_039-bkkpn13}
   - {type: 'kr:newline', offset: 2250, content: '
@@ -1031,6 +1035,7 @@ markers:
   - {type: line-break, offset: 2319, content: '', id: KR4d0056_SBCK_039-9b06}
   - {type: indent, offset: 2319, content: 　　　, id: KR4d0056_krp_039-bkkind25}
   - {type: punctuation, offset: 2323, content: (, id: KR4d0056_krp_039-bkkpn14}
+  - {type: voice, offset: 2323, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 2324, content: ), id: KR4d0056_krp_039-bkkpn15}
   - {type: 'kr:newline', offset: 2328, content: '
 
@@ -1111,6 +1116,7 @@ markers:
   - {type: indent, offset: 2509, content: 　　　, id: KR4d0056_krp_039-bkkind27}
   - {type: variant, offset: 2510, length: 1, content: 陳, WYG: 程}
   - {type: punctuation, offset: 2516, content: (, id: KR4d0056_krp_039-bkkpn16}
+  - {type: voice, offset: 2516, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2518, content: ), id: KR4d0056_krp_039-bkkpn17}
   - {type: 'kr:newline', offset: 2518, content: '
 
@@ -1146,6 +1152,7 @@ markers:
   - {type: variant, offset: 2578, length: 1, content: 寄, SBCK: 􅀉}
   - {type: substitution, offset: 2579, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 2584, content: (, id: KR4d0056_krp_039-bkkpn18}
+  - {type: voice, offset: 2584, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 2585, content: ), id: KR4d0056_krp_039-bkkpn19}
   - {type: 'kr:newline', offset: 2585, content: '
 
@@ -1332,4 +1339,4 @@ markers:
 
       ', id: KR4d0056_krp_039-bkkkrnewl229}
   back: []
-hash: sha256:81ab5fcfaf0d1f04240baaa6ab04c951179f3b34210b10cf9ad46dee8d57fe3f
+hash: sha256:fa28aa3cd271ff95fe436f2678567e4f742f173e4babb2044434c6777a9cbe88

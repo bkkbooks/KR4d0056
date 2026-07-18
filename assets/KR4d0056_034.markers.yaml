@@ -260,6 +260,7 @@ markers:
   - {type: indent, offset: 450, content: 　　　, id: KR4d0056_krp_034-bkkind11}
   - {type: page-break, offset: 450, content: '', id: KR4d0056_WYG_034-3a, image: WYG1099/WYG1099-0252c.png}
   - {type: punctuation, offset: 453, content: (, id: KR4d0056_krp_034-bkkpn1}
+  - {type: voice, offset: 453, length: 7, name: note, id: n1}
   - {type: substitution, offset: 454, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 457, content: /, id: KR4d0056_krp_034-bkkpn2}
   - {type: variant, offset: 457, length: 1, content: 產, WYG: 産}
@@ -1617,6 +1618,7 @@ markers:
   - {type: line-break, offset: 2974, content: '', id: KR4d0056_SBCK_034-15a02}
   - {type: indent, offset: 2974, content: 　　　, id: KR4d0056_krp_034-bkkind65}
   - {type: punctuation, offset: 2979, content: (, id: KR4d0056_krp_034-bkkpn4}
+  - {type: voice, offset: 2979, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 2985, content: /, id: KR4d0056_krp_034-bkkpn5}
   - {type: punctuation, offset: 2990, content: ), id: KR4d0056_krp_034-bkkpn6}
   - {type: 'kr:newline', offset: 2990, content: '
@@ -2008,6 +2010,7 @@ markers:
   - {type: indent, offset: 3640, content: 　　, id: KR4d0056_krp_034-bkkind125}
   - {type: indent, offset: 3643, content: 　, id: KR4d0056_krp_034-bkkind126}
   - {type: punctuation, offset: 3648, content: (, id: KR4d0056_krp_034-bkkpn7}
+  - {type: voice, offset: 3648, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 3654, content: /, id: KR4d0056_krp_034-bkkpn8}
   - {type: punctuation, offset: 3659, content: ), id: KR4d0056_krp_034-bkkpn9}
   - {type: 'kr:newline', offset: 3659, content: '
@@ -2029,4 +2032,4 @@ markers:
 
       ', id: KR4d0056_krp_034-bkkkrnewl354}
   back: []
-hash: sha256:f9343ec3d1cfac08144ae9a996d53338415fb304f8182bc385a8ad25a72d8909
+hash: sha256:48dc4a19ab4ec909b204ed0983bc05b46d821aaff64e4f399aacb81544e2c5b8

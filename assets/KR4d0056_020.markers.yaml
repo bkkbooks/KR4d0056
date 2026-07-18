@@ -370,6 +370,7 @@ markers:
   - {type: line-break, offset: 739, content: '', id: KR4d0056_SBCK_020-4a01}
   - {type: indent, offset: 739, content: 　　　, id: KR4d0056_krp_020-bkkind13}
   - {type: punctuation, offset: 745, content: (, id: KR4d0056_krp_020-bkkpn1}
+  - {type: voice, offset: 745, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 751, content: ), id: KR4d0056_krp_020-bkkpn2}
   - {type: 'kr:newline', offset: 751, content: '
 
@@ -445,6 +446,7 @@ markers:
   - {type: line-break, offset: 938, content: '', id: KR4d0056_SBCK_020-4b06}
   - {type: indent, offset: 938, content: 　　　, id: KR4d0056_krp_020-bkkind16}
   - {type: punctuation, offset: 947, content: (, id: KR4d0056_krp_020-bkkpn3}
+  - {type: voice, offset: 947, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 949, content: ), id: KR4d0056_krp_020-bkkpn4}
   - {type: 'kr:newline', offset: 949, content: '
 
@@ -978,6 +980,7 @@ markers:
   - {type: line-break, offset: 1936, content: '', id: KR4d0056_SBCK_020-9b02}
   - {type: indent, offset: 1936, content: 　　　, id: KR4d0056_krp_020-bkkind37}
   - {type: punctuation, offset: 1938, content: (, id: KR4d0056_krp_020-bkkpn5}
+  - {type: voice, offset: 1938, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 1942, content: ), id: KR4d0056_krp_020-bkkpn6}
   - {type: 'kr:newline', offset: 1942, content: '
 
@@ -1238,6 +1241,7 @@ markers:
       ', id: KR4d0056_krp_020-bkkkrnewl217}
   - {type: line-break, offset: 2476, content: '', id: KR4d0056_SBCK_020-11b08}
   - {type: punctuation, offset: 2478, content: (, id: KR4d0056_krp_020-bkkpn7}
+  - {type: voice, offset: 2478, length: 11, name: note, id: n4}
   - {type: variant, offset: 2482, length: 1, content: 曾, WYG: 曽}
   - {type: punctuation, offset: 2484, content: /, id: KR4d0056_krp_020-bkkpn8}
   - {type: variant, offset: 2484, length: 1, content: 余, WYG: 予}
@@ -1708,4 +1712,4 @@ markers:
 
       ', id: KR4d0056_krp_020-bkkkrnewl300}
   back: []
-hash: sha256:bc86d3146b1606b7ef6dffea8c57e98c6e687b2f7faec0f47af1100d5171f58e
+hash: sha256:2a2d6ab113aeebcf74defca5575ffe499666e51845efa334f0cd81754854ee12

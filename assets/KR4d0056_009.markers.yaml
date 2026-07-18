@@ -215,6 +215,7 @@ markers:
       ', id: KR4d0056_krp_009-bkkkrnewl36}
   - {type: line-break, offset: 451, content: '', id: KR4d0056_SBCK_009-2b07}
   - {type: punctuation, offset: 452, content: (, id: KR4d0056_krp_009-bkkpn1}
+  - {type: voice, offset: 452, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 453, content: ), id: KR4d0056_krp_009-bkkpn2}
   - {type: variant, offset: 453, length: 1, content: 氷, WYG: 冰}
   - {type: variant, offset: 455, length: 1, content: 產, WYG: 産}
@@ -918,6 +919,7 @@ markers:
   - {type: substitution, offset: 1848, original: 蹟, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16988}}
   - {type: variant, offset: 1850, length: 1, content: 收, WYG: 収}
   - {type: punctuation, offset: 1854, content: (, id: KR4d0056_krp_009-bkkpn3}
+  - {type: voice, offset: 1854, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 1858, content: /, id: KR4d0056_krp_009-bkkpn4}
   - {type: punctuation, offset: 1862, content: ), id: KR4d0056_krp_009-bkkpn5}
   - {type: variant, offset: 1866, length: 1, content: 巳, WYG: 已}
@@ -1568,6 +1570,7 @@ markers:
   - {type: page-break, offset: 3232, content: '', id: KR4d0056_WYG_009-13b, image: WYG1099/WYG1099-0075d.png}
   - {type: substitution, offset: 3233, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 3235, content: (, id: KR4d0056_krp_009-bkkpn6}
+  - {type: voice, offset: 3235, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 3240, content: ), id: KR4d0056_krp_009-bkkpn7}
   - {type: 'kr:newline', offset: 3240, content: '
 
@@ -1965,4 +1968,4 @@ markers:
 
       ', id: KR4d0056_krp_009-bkkkrnewl344}
   back: []
-hash: sha256:8b7a6ac849219c4d6365e310951b11e9fbb39864c3c3aaef94f564d8d6f3e280
+hash: sha256:2a0d93a6196e3cfb6cee77d8df84b3fdab5bd226d13235a36aee3c7ec534c457

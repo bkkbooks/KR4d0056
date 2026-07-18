@@ -20,6 +20,7 @@ markers:
   - {type: indent, offset: 0, content: 　, id: KR4d0056_krp_000-bkkind1}
   - {type: punctuation, offset: 4, content: (, id: KR4d0056_krp_000-bkkpn1}
   - {type: variant, offset: 4, length: 1, content: 上, WYG: 五十八首卷五}
+  - {type: voice, offset: 4, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5, content: ), id: KR4d0056_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 5, content: '
 
@@ -84,6 +85,7 @@ markers:
   - {type: indent, offset: 71, content: 　　, id: KR4d0056_krp_000-bkkind17}
   - {type: indent, offset: 76, content: 　, id: KR4d0056_krp_000-bkkind18}
   - {type: punctuation, offset: 81, content: (, id: KR4d0056_krp_000-bkkpn3}
+  - {type: voice, offset: 81, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 83, content: ), id: KR4d0056_krp_000-bkkpn4}
   - {type: 'kr:newline', offset: 83, content: '
 
@@ -1599,4 +1601,4 @@ markers:
 
       ', id: KR4d0056_krp_000-bkkkrnewl294}
   back: []
-hash: sha256:6d88c1b846d2b86df4516a88d1d27a28f4d4ceb8e6ec047d25929c07284994aa
+hash: sha256:b7f05b14d228c6b584d3d288fd5b855e165a3d1144a6d3e8bc495207eb16e332

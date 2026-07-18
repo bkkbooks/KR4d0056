@@ -989,6 +989,7 @@ markers:
   - {type: line-break, offset: 2081, content: '', id: KR4d0056_SBCK_035-9a06}
   - {type: indent, offset: 2081, content: 　　　, id: KR4d0056_krp_035-bkkind29}
   - {type: punctuation, offset: 2086, content: (, id: KR4d0056_krp_035-bkkpn1}
+  - {type: voice, offset: 2086, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2089, content: ), id: KR4d0056_krp_035-bkkpn2}
   - {type: 'kr:newline', offset: 2089, content: '
 
@@ -1001,6 +1002,7 @@ markers:
   - {type: variant, offset: 2107, length: 1, content: 䏈, WYG: 聨}
   - {type: substitution, offset: 2107, original: 䏈, replacement: 聯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4313}}
   - {type: punctuation, offset: 2119, content: (, id: KR4d0056_krp_035-bkkpn3}
+  - {type: voice, offset: 2119, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 2123, content: /, id: KR4d0056_krp_035-bkkpn4}
   - {type: substitution, offset: 2123, original: 俛, replacement: 俯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17159}}
   - {type: punctuation, offset: 2127, content: ), id: KR4d0056_krp_035-bkkpn5}
@@ -1099,6 +1101,7 @@ markers:
   - {type: line-break, offset: 2308, content: '', id: KR4d0056_SBCK_035-10a05}
   - {type: indent, offset: 2308, content: 　　　, id: KR4d0056_krp_035-bkkind32}
   - {type: punctuation, offset: 2317, content: (, id: KR4d0056_krp_035-bkkpn6}
+  - {type: voice, offset: 2317, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2319, content: ), id: KR4d0056_krp_035-bkkpn7}
   - {type: 'kr:newline', offset: 2319, content: '
 
@@ -1567,4 +1570,4 @@ markers:
 
       ', id: KR4d0056_krp_035-bkkkrnewl263}
   back: []
-hash: sha256:7f172cc128fe55aa0955cc4c40ed53f4a1bd54f5ec7c52ee38ca2a3f406e480e
+hash: sha256:ebded8c664de0d8e62f9e09fddb4ee005d843a9bcf2961797d61f41d8b44d4c6

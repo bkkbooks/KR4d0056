@@ -191,6 +191,7 @@ markers:
   - {type: line-break, offset: 377, content: '', id: KR4d0056_SBCK_056-2b02}
   - {type: variant, offset: 377, length: 1, content: 汚, WYG: 汙}
   - {type: punctuation, offset: 381, content: (, id: KR4d0056_krp_056-bkkpn1}
+  - {type: voice, offset: 381, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 382, content: /, id: KR4d0056_krp_056-bkkpn2}
   - {type: punctuation, offset: 383, content: ), id: KR4d0056_krp_056-bkkpn3}
   - {type: variant, offset: 383, length: 1, content: 搥, WYG: 槌}
@@ -222,6 +223,7 @@ markers:
   - {type: substitution, offset: 434, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 438, content: (, id: KR4d0056_krp_056-bkkpn4}
   - {type: variant, offset: 438, length: 1, content: 歲, WYG: 歳}
+  - {type: voice, offset: 438, length: 14, name: note, id: n2}
   - {type: variant, offset: 444, length: 1, content: 蒙, SBCK: 􅂪}
   - {type: variant, offset: 444, length: 1, content: 蒙, WYG: 䝉}
   - {type: punctuation, offset: 445, content: /, id: KR4d0056_krp_056-bkkpn5}
@@ -317,6 +319,7 @@ markers:
   - {type: variant, offset: 600, length: 1, content: 崑, WYG: 崐}
   - {type: variant, offset: 601, length: 1, content: 丘, WYG: 邱}
   - {type: punctuation, offset: 602, content: (, id: KR4d0056_krp_056-bkkpn7}
+  - {type: voice, offset: 602, length: 6, name: note, id: n3}
   - {type: variant, offset: 603, length: 1, content: 卽, WYG: 即}
   - {type: substitution, offset: 603, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: variant, offset: 607, length: 1, content: 宫, WYG: 宮}
@@ -404,6 +407,7 @@ markers:
   - {type: indent, offset: 749, content: 　　　, id: KR4d0056_krp_056-bkkind16}
   - {type: variant, offset: 751, length: 1, content: 卿, SBCK: 􅀸}
   - {type: punctuation, offset: 755, content: (, id: KR4d0056_krp_056-bkkpn9}
+  - {type: voice, offset: 755, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 759, content: ), id: KR4d0056_krp_056-bkkpn10}
   - {type: 'kr:newline', offset: 759, content: '
 
@@ -1307,4 +1311,4 @@ markers:
 
       ', id: KR4d0056_krp_056-bkkkrnewl213}
   back: []
-hash: sha256:7f2016b00e0666e1f3f0f0584c8a1bc887c704d893cd1420c0a44ef8b1e4ae38
+hash: sha256:fb1119ccfcf8d7843435caef5cb3bab339957f91bfbeb990b0756d7a8ec3f120

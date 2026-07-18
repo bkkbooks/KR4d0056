@@ -782,6 +782,7 @@ markers:
   - {type: line-break, offset: 1568, content: '', id: KR4d0056_SBCK_027-7b01}
   - {type: indent, offset: 1568, content: 　　　, id: KR4d0056_krp_027-bkkind25}
   - {type: punctuation, offset: 1574, content: (, id: KR4d0056_krp_027-bkkpn1}
+  - {type: voice, offset: 1574, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 1581, content: /, id: KR4d0056_krp_027-bkkpn2}
   - {type: punctuation, offset: 1588, content: ), id: KR4d0056_krp_027-bkkpn3}
   - {type: 'kr:newline', offset: 1588, content: '
@@ -927,6 +928,7 @@ markers:
   - {type: line-break, offset: 1839, content: '', id: KR4d0056_SBCK_027-8b02}
   - {type: indent, offset: 1839, content: 　　　, id: KR4d0056_krp_027-bkkind33}
   - {type: punctuation, offset: 1845, content: (, id: KR4d0056_krp_027-bkkpn4}
+  - {type: voice, offset: 1845, length: 14, name: note, id: n2}
   - {type: variant, offset: 1851, length: 1, content: 曆, WYG: 厯}
   - {type: punctuation, offset: 1852, content: /, id: KR4d0056_krp_027-bkkpn5}
   - {type: punctuation, offset: 1859, content: ), id: KR4d0056_krp_027-bkkpn6}
@@ -1224,6 +1226,7 @@ markers:
   - {type: variant, offset: 2568, length: 1, content: 旣, WYG: 既}
   - {type: substitution, offset: 2568, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: punctuation, offset: 2573, content: (, id: KR4d0056_krp_027-bkkpn7}
+  - {type: voice, offset: 2573, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2574, content: /, id: KR4d0056_krp_027-bkkpn8}
   - {type: punctuation, offset: 2575, content: ), id: KR4d0056_krp_027-bkkpn9}
   - {type: 'kr:newline', offset: 2578, content: '
@@ -2128,4 +2131,4 @@ markers:
 
       ', id: KR4d0056_krp_027-bkkkrnewl346}
   back: []
-hash: sha256:8c67b5cfb318917a49089c6e75d0602513ff7558748eda45d54a92b22bb385f8
+hash: sha256:d86d21b4a1987ea3a1fb58f0a76f1f75c93d75451bdee02148b47b481f417c44

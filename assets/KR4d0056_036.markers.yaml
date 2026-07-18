@@ -145,6 +145,7 @@ markers:
   - {type: substitution, offset: 278, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16879}}
   - {type: variant, offset: 281, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 286, content: (, id: KR4d0056_krp_036-bkkpn1}
+  - {type: voice, offset: 286, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 291, content: /, id: KR4d0056_krp_036-bkkpn2}
   - {type: punctuation, offset: 296, content: ), id: KR4d0056_krp_036-bkkpn3}
   - {type: 'kr:newline', offset: 296, content: '
@@ -226,6 +227,7 @@ markers:
   - {type: line-break, offset: 468, content: '', id: KR4d0056_SBCK_036-2b06}
   - {type: indent, offset: 468, content: 　　　, id: KR4d0056_krp_036-bkkind10}
   - {type: punctuation, offset: 470, content: (, id: KR4d0056_krp_036-bkkpn4}
+  - {type: voice, offset: 470, length: 31, name: note, id: n2}
   - {type: variant, offset: 473, length: 1, content: 軌, SBCK: 􅁤}
   - {type: variant, offset: 477, length: 1, content: 軌, SBCK: 􅁤}
   - {type: variant, offset: 478, length: 1, content: 䨇, WYG: 雙}
@@ -1697,6 +1699,7 @@ markers:
   - {type: line-break, offset: 3427, content: '', id: KR4d0056_SBCK_036-15a06}
   - {type: indent, offset: 3427, content: 　　　, id: KR4d0056_krp_036-bkkind66}
   - {type: punctuation, offset: 3429, content: (, id: KR4d0056_krp_036-bkkpn10}
+  - {type: voice, offset: 3429, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3431, content: ), id: KR4d0056_krp_036-bkkpn11}
   - {type: 'kr:newline', offset: 3431, content: '
 
@@ -1958,6 +1961,7 @@ markers:
       ', id: KR4d0056_krp_036-bkkkrnewl332}
   - {type: line-break, offset: 3960, content: '', id: KR4d0056_SBCK_036-17b03}
   - {type: punctuation, offset: 3964, content: (, id: KR4d0056_krp_036-bkkpn12}
+  - {type: voice, offset: 3964, length: 28, name: note, id: n4}
   - {type: variant, offset: 3972, length: 1, content: 書, WYG: 畫}
   - {type: punctuation, offset: 3978, content: /, id: KR4d0056_krp_036-bkkpn13}
   - {type: variant, offset: 3983, length: 1, content: 䈎, WYG: 篥}
@@ -2201,4 +2205,4 @@ markers:
 
       ', id: KR4d0056_krp_036-bkkkrnewl373}
   back: []
-hash: sha256:4a44de1cdf64d4a307e258db150b81ef8f2de54616c2fbcf21fa68e7806b5637
+hash: sha256:9602e3ad1ba39931760a3e672093c91704329489ba05c6ada595e9486030aa8c
